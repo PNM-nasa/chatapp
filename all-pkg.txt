@@ -1,0 +1,2793 @@
+Listing...
+0verkill/stable 0.16-git-3 aarch64
+1oom/stable 1.0 aarch64
+2048-c/stable 2022.10.23 aarch64
+2ping/stable 4.5.1-3 all
+6tunnel/stable 0.13 aarch64
+7zip/stable 23.01 aarch64
+8086tiny/stable 1.25-4 aarch64
+a52dec/stable 0.7.4 aarch64
+aalib-static/stable 1.4rc5-11 aarch64
+aalib/stable 1.4rc5-11 aarch64
+aapt2/stable 13.0.0.6-5 aarch64
+aapt/stable 13.0.0.6-5 aarch64
+abduco/stable 0.6-3 aarch64
+abook/stable 0.6.1 aarch64
+abootimg/stable 0.6-1 aarch64
+abseil-cpp/stable,now 20230125.3 aarch64 [installed,automatic]
+abuse-frabs/tur-packages 20210827 all
+abuse/tur-packages 0.9.1-1 aarch64
+ack-grep/stable 3.7.0 all
+acr/stable 2.1.2 aarch64
+adms/stable 2.3.7 aarch64
+aerc/stable 0.15.2 aarch64
+afrog/tur-packages 1.3.8 aarch64
+agate/stable 3.3.0 aarch64
+age/stable 1:1.1.1-1 aarch64
+agg/stable 1.4.2 aarch64
+aha/stable 0.5.1 aarch64
+aichat/stable 0.8.0 aarch64
+aidl/stable 13.0.0.6-5 aarch64
+alass/stable 2.0.0-2 aarch64
+alembic/stable 1.8.5 aarch64
+algernon/stable 1.15.2 aarch64
+alist/stable 3.21.0 aarch64
+alpine/stable 2.26 aarch64
+amber/stable 0.5.9 aarch64
+ambr/stable 0.5.9 aarch64
+ambs/stable 0.5.9 aarch64
+amfora/stable 1.9.2-2 aarch64
+anacron/stable 2.3 aarch64
+android-tools/stable 34.0.1 aarch64
+anewer/stable 0.1.6 aarch64
+angband/stable 4.2.4 aarch64
+angle-grinder/stable 0.19.2 aarch64
+ani-cli/stable 4.4 all
+ant/stable 1.10.13 all
+antibody/stable 6.1.1-2 aarch64
+antiword/stable 0.37-2 aarch64
+aom-tools/stable 3.6.1 aarch64
+apache2/stable,now 1:2.4.57 aarch64 [installed]
+apkeep/stable 0.15.0 aarch64
+apksigner/stable 33.0.1 all
+apr-static/stable 1.7.4 aarch64
+apr-util-static/stable 1.6.3-1 aarch64
+apr-util/stable 1.6.3-1 aarch64 [upgradable from: 1.6.3]
+apr/stable,now 1.7.4 aarch64 [installed,automatic]
+apt-file/stable 3.3 all
+apt-ftparchive/stable 2.7.1-1 aarch64
+apt-transport-tor/stable 2.7.1-1 all
+apt/stable,now 2.7.1-1 aarch64 [installed]
+aptly/stable 1.5.0-2 aarch64
+ardentryst/tur-packages 20201007 all
+argon2-static/stable 20190702-1 aarch64
+argon2/stable,now 20190702-1 aarch64 [installed,automatic]
+argp-static/stable 1.5.0 aarch64
+argp/stable,now 1.5.0 aarch64 [installed,automatic]
+aria2/stable 1.36.0-7 aarch64
+arj/stable 3.10.22-5 aarch64
+arp-scan/root 1.10.0 aarch64
+arpack-ng/tur-packages 3.9.0 aarch64
+asciidoc/stable 10.2.0-3 all
+asciidoctor/stable 2.0.20 all
+asciinema/stable 2.3.0 all
+aspell-de/stable 1:20161207-1 all
+aspell-en/stable 1:2020.12.07 all
+aspell-es/stable 2:1.11-2-0 all
+aspell-fr/stable 2:0.50-3-0 all
+aspell-static/stable 0.60.8-3 aarch64
+aspell/stable 0.60.8-3 aarch64
+assimp/stable,now 5.2.5 aarch64 [installed,automatic]
+astra-sm/stable 2019.06.19 aarch64
+asymptote/stable 2.86 aarch64
+at-spi2-core/stable 2.48.3 aarch64
+at/stable 3.2.5 aarch64
+atomicparsley/stable 1:20221229.172126.d813aa6 aarch64
+atomvm/stable 1:0.5.0 aarch64
+atool/stable 0.39.0-1 all
+attr-static/stable 2.5.1 aarch64
+attr/stable,now 2.5.1 aarch64 [installed,automatic]
+atuin/stable 15.0.0 aarch64
+aubio-static/stable 0.4.9-2 aarch64
+aubio/stable 0.4.9-2 aarch64
+authbind/root 2.1.3 aarch64
+autoconf-archive/stable 2023.02.20 all
+autoconf213/stable 2.13 all
+autoconf/stable,now 2.71-2 all [installed]
+autojump/stable 22.5.3 all
+automake/stable,now 1.16.5 all [installed]
+autossh/stable 1.4g-3 aarch64
+avahi-static/root 0.8-9 aarch64
+avahi/root,now 0.8-9 aarch64 [installed,automatic]
+aview/stable 1.3.0rc1-5 aarch64
+avra/stable 1.4.2 aarch64
+avrdude/root 7.1 aarch64
+await/stable 0.91 aarch64
+awesomeshot/stable 1.1.0 all
+axel/stable,now 2.17.11-2 aarch64 [installed]
+b3sum/stable 1.4.1 aarch64
+babl/stable 0.1.106 aarch64
+bacula-fd-static/stable 13.0.3 aarch64
+bacula-fd/stable 13.0.3 aarch64
+badvpn-udpgw/stable 1.999.130 aarch64
+barcode/stable 0.99-4 aarch64
+base16384/stable 2.2.3 aarch64
+bash-completion/stable,now 2.11-2 all [installed,automatic]
+bash/stable,now 5.2.15-1 aarch64 [installed]
+bastet/stable 0.43.2-9 aarch64
+bat/stable,now 0.23.0 aarch64 [installed]
+bc-gh/stable 6.6.0 aarch64
+bc/stable,now 1.07.1-1 aarch64 [installed,automatic]
+bcal/stable 2.4 aarch64
+bdsup2sub/stable 4.0.1 all
+beanshell/stable,now 2.1.1 all [installed]
+below/stable 0.7.0 aarch64
+bftpd/stable 6.1-1 aarch64
+bgrep/stable 1.0-3 aarch64
+biber-installer/tur-packages 2.19-1 all
+biboumi/stable 9.0-3 aarch64
+bililive-go/tur-packages 0.7.13 aarch64
+binaryen/stable 114-1 aarch64
+bindfs/root 1.17.3 aarch64
+binutils-bin/stable,now 2.40 aarch64 [installed,automatic]
+binutils-cross/stable 2.40 aarch64
+binutils-gold/stable 2.40 aarch64
+binutils-is-llvm/stable,now 0.3-1 aarch64 [installed,automatic]
+binutils-libs/stable,now 2.40 aarch64 [installed,automatic]
+binutils/stable 2.40 aarch64
+bison-static/stable 3.8.2-3 aarch64
+bison/stable,now 3.8.2-3 aarch64 [installed]
+bitcoin/stable 25.0 aarch64
+bitlbee/stable 3.6-1-0 aarch64
+bk/stable 0.5.3 aarch64
+blackbox/stable 1:1.20220610 all
+blade/stable 0.0.81 aarch64
+blender/tur-packages 3.6-d145dfda-2023.04.29-0 aarch64
+blink/stable 2023.04.20-git-1 aarch64
+blk-utils/stable 2.39.1 aarch64
+blogc/stable 0.20.1 aarch64
+bmon/stable,now 4.0-3 aarch64 [installed]
+boinc/stable 7.22.2 aarch64
+boinctui/stable 2.7.0-2 aarch64
+bombadillo/stable 2.4.0 aarch64
+boost-headers/stable 1.82.0 all
+boost-static/stable 1.82.0 aarch64
+boost/stable,now 1.82.0 aarch64 [installed,automatic]
+bore/stable 0.5.0 aarch64
+borgbackup/stable 1.1.17-10 aarch64
+botan3-static/stable 3.0.0 aarch64
+botan3/stable 3.0.0 aarch64
+boxes/stable 2.2.0 aarch64
+brainfuck-static/stable 1:2.7.3 aarch64
+brainfuck/stable 1:2.7.3 aarch64
+brogue/stable 1.12 aarch64
+brook/stable 20230606 aarch64
+broot/stable 1.23.0 aarch64
+brotli-static/stable 1.0.9-1 aarch64
+brotli/stable,now 1.0.9-1 aarch64 [installed,automatic]
+bsd-finger/stable 0.17 aarch64
+bsd-games/stable 1:3.3 aarch64
+bsdtar/stable 3.6.2-2 aarch64
+btfs2/stable 2.3.2 aarch64
+bubblewrap/root 0.8.0 aarch64
+buf/stable 1.23.1 aarch64
+build-essential/stable 4.1 all
+busybox/stable 1.36.1 aarch64
+bvi/stable 1.4.2 aarch64
+byacc/stable 20230521 aarch64
+byobu/stable 5.133 all
+bzip2/stable,now 1.0.8-6 aarch64 [installed]
+c-ares/stable,now 1.19.1 aarch64 [installed,automatic]
+c-script/stable 0.14 all
+c-toxcore-static/stable 0.2.18-p20230303-0 aarch64
+c-toxcore/stable 0.2.18-p20230303-0 aarch64
+ca-certificates-java/stable,now 1:2023.05.30 all [installed,automatic]
+ca-certificates/stable,now 1:2023.05.30 all [installed]
+cabal-install/stable 3.8.1.0 aarch64
+cabextract/stable 1.11 aarch64
+cadaver/stable 0.24-1 aarch64
+caddy/stable 2.6.4-1 aarch64
+calc/stable 2.14.1.6 aarch64
+calcurse-caldav/stable 4.8.1 aarch64
+calcurse/stable 4.8.1 aarch64
+capnproto/stable 0.10.4 aarch64
+capstone-static/stable 4.0.2-2 aarch64
+capstone/stable 4.0.2-2 aarch64
+cargo-c/stable 0.9.20 aarch64
+catdoc/stable 0.95 aarch64
+catgirl/stable 2.1-1 aarch64
+catimg/stable 2.7.0 aarch64
+cava/stable 0.8.3 aarch64
+cavez-of-phear/stable 0.6.1-1 aarch64
+cavif-rs/stable 1.5.3 aarch64
+cboard/stable 0.7.5-4 aarch64
+cbonsai/stable 1.3.1-1 aarch64
+cc65/stable 2.19 aarch64
+ccache/stable 4.8.2 aarch64
+cccc/stable 3.2.0 aarch64
+ccextractor/stable 0.94-2 aarch64
+ccls/stable 0.20220729-1 aarch64
+ccrypt/stable 1.11 aarch64
+cec-client/stable 6.0.2-1 aarch64
+ceu-lang/stable 2019.07.17 aarch64
+cf/tur-packages 0.4.2 aarch64
+cfengine-static/stable 1:3.22.0 aarch64
+cfengine/stable 1:3.22.0 aarch64
+cfm/stable 1.2.0-2 aarch64
+cgal/stable 5.5.2 all
+cgdb/stable 0.8.0 aarch64
+cgif/stable 0.3.2 aarch64
+chafa-static/stable 1.12.5-1 aarch64
+chafa/stable 1.12.5-1 aarch64
+check-static/stable 0.15.2-2 aarch64
+check/stable 0.15.2-2 aarch64
+chezmoi/stable 2.34.3 aarch64
+chicken-static/stable 5.3.0 aarch64
+chicken/stable 5.3.0 aarch64
+choose/stable 1.3.4 aarch64
+chromaprint/stable 1.5.1-p20221217-1 aarch64
+chromium/tur-packages 110.0.5481.177-2 aarch64
+cicada/stable 0.9.36 aarch64
+ciso/stable 1.0.2-1 aarch64
+ckermit/stable 9.0.302-1 aarch64
+clamav-static/stable 0.103.6-1 aarch64
+clamav/stable 1.1.0-1 aarch64
+clang-16/tur-packages 20230603-16.0-0 all
+clang/stable,now 16.0.6-1 aarch64 [installed]
+clash/stable 1.17.0 aarch64
+classic-flang/tur-packages 20230520 aarch64
+cliaoke/stable 0.2.4-3 aarch64
+clidle/stable 2022.05.25-1 aarch64
+clifm/stable 1.12 aarch64
+clinfo/stable 3.0.23.01.25 aarch64
+clipp/stable 1.2.3-1 all
+cloneit/stable 20221024-1 aarch64
+cloudflared/stable 2023.7.0 aarch64
+clpeak/stable 1.1.2-3 aarch64
+clvk/stable 0.0.20230709.100338g5da0afb0 aarch64
+cmake-curses-gui/stable 3.26.4-1 aarch64
+cmake/stable 3.26.4-1 aarch64 [upgradable from: 3.26.4]
+cmark-static/stable 0.30.3 aarch64
+cmark/stable 0.30.3 aarch64
+cmatrix/stable 2.0 aarch64
+cmus/stable 2.10.0-6 aarch64
+cmusfm/stable 0.4.1 aarch64
+code-is-code-oss/tur-packages 1.79.2 aarch64
+code-oss/tur-packages 1.79.2 aarch64
+code-server/tur-packages 4.14.1 aarch64
+codecrypt/stable 1.8-9 aarch64
+coinor-clp-static/stable 1:1.17.8 aarch64
+coinor-clp/stable 1:1.17.8 aarch64
+cointop/stable 1.6.10-1 aarch64
+colm-static/stable 0.14.7-1 aarch64
+colm/stable 0.14.7-1 aarch64
+colordiff/stable 1.0.21 all
+command-not-found/stable 2.2.0-7 aarch64 [upgradable from: 2.2.0-5]
+composer/stable 2.5.8 all
+console-bridge/stable 1.0.2 aarch64
+containerd/root 1.6.21 aarch64
+cookcli/stable 0.1.6-3 aarch64
+coreutils/stable,now 9.3 aarch64 [installed]
+corgi/stable 0.2.4-3 aarch64
+corkscrew/stable 2.0-3 aarch64
+cowsay/stable 3.7.0 all
+cpio/stable 2.14 aarch64
+cppcheck/stable 2.11.1 aarch64
+cppi/stable 1.18-1 aarch64
+cpufetch/stable 1.04 aarch64
+cpulimit/stable 0.2-1 aarch64
+crawl/stable 0.30.1 aarch64
+croc/stable 9.6.5 aarch64
+cronie/stable 1.6.1-1 aarch64
+crowbook/stable 0.15.2e-1 aarch64
+crunch/stable 3.6-4 aarch64
+crypto-monitor/stable 2021.02.22-3 aarch64
+cryptopp-static/stable 8.8.0 aarch64
+cryptopp/stable 8.8.0 aarch64
+cryptsetup-static/root 2.4.3 aarch64
+cryptsetup/root 2.4.3-3 aarch64
+cscope/stable 15.9-1 aarch64
+csh/stable 20110502-1 aarch64
+csol/stable 1.6.0 aarch64
+csview/stable 1.2.2 aarch64
+ctags/stable 2:5.9.20221106.0-1 aarch64
+ctypes-sh/stable 1.2-1 aarch64
+cuetools/stable 1.4.1 aarch64
+cups-pdf/stable 3.0.1 aarch64
+cups-static/stable 2.4.6 aarch64
+cups/stable 2.4.6 aarch64
+curl/stable,now 8.1.2 aarch64 [installed]
+curlie/stable 1.7.1 aarch64
+curseofwar/stable 1.3.0-4 aarch64
+cvs/stable 1:1.12.13-2 aarch64
+d8/stable 33.0.1 all
+daemonize/stable 1.7.8-2 aarch64
+dar-static/stable 2.7.10 aarch64
+dar/stable 2.7.10 aarch64
+darkhttpd/stable 1.14 aarch64
+dart/stable 3.0.5 aarch64
+dasel/stable 2.3.4 aarch64
+dash/stable,now 0.5.12 aarch64 [installed]
+dasm/stable 2.20.14.1 aarch64
+datamash/stable 1.8 aarch64
+davegnukem/tur-packages 1.0.3 aarch64
+db/stable 18.1.40-4 aarch64
+dbus-python/stable 1.3.2-2 aarch64
+dbus-static/stable 1.15.6-1 aarch64
+dbus/stable,now 1.15.6-1 aarch64 [installed,automatic]
+dcfldd/tur-packages 1.9.1 aarch64
+dcmtk/stable 3.6.7-4 aarch64
+dcraw/stable 9.28.0-6 aarch64
+ddrescue/stable 1.27 aarch64
+debianutils/stable,now 5.7-1 aarch64 [installed]
+debootstrap/stable 1.0.128+nmu2-5 all
+delve/stable 1.21.0 aarch64
+desed/stable 1.2.1 aarch64
+detchar/tur-packages 0.1.0 aarch64
+deutex/stable 5.2.2 aarch64
+dex2jar/stable 2.1.2021.10.31 all
+dialog-static/stable 1.3-20230209-0 aarch64
+dialog/stable,now 1.3-20230209-0 aarch64 [installed]
+dichvucoder-repo/tur-packages 1.0.2 all
+dictd/stable 1.13.1 aarch64
+diffstat/stable 1.65 aarch64
+difftastic/stable 0.47.0 aarch64
+diffutils/stable,now 3.10 aarch64 [installed]
+dirb/stable 2.22-4 aarch64
+direnv/stable 2.32.3 aarch64
+direvent/stable 5.3 aarch64
+discordo/stable 2022.08.12-2 aarch64
+diskus/stable 0.7.0 aarch64
+distant/stable 0.20.0-alpha.4-0 aarch64
+distcc/stable 3.4-2 aarch64
+djvulibre-static/stable 3.5.28-5 aarch64
+djvulibre/stable,now 3.5.28-5 aarch64 [installed,automatic]
+dlib/tur-packages 19.24.2 aarch64
+dmagnetic/stable 0.37 aarch64
+dmtx-utils/stable 0.7.6 aarch64
+dnote-server/stable 2.1.1-1 aarch64
+dnote/stable 1:0.13.0-1 aarch64
+dns2tcp/stable 0.5.2-1 aarch64
+dnslookup/stable 1.9.1-1 aarch64
+dnsmap/stable 0.36-2 aarch64
+dnsmasq/root 2.89 aarch64
+dnstop/stable 2022.10.19 aarch64
+dnsutils-static/stable 9.16.41 aarch64
+dnsutils/stable 9.16.41 aarch64
+docbook-xml/stable 4.5-4 all
+docbook-xsl/stable 1.79.2-1 all
+docker-compose/root 2.19.1 aarch64
+docker/root 1:20.10.24 aarch64
+docopt-static/stable 0.6.3-3 aarch64
+docopt/stable 0.6.3-3 aarch64
+doctest/stable 2.4.11 aarch64
+dog/stable 0.1.0-2 aarch64
+dopewars/stable 1.6.2 aarch64
+dos2unix/stable,now 7.5.0 aarch64 [installed]
+dosfstools/stable 4.2 aarch64
+dotconf-static/stable 1.3 aarch64
+dotconf/stable 1.3 aarch64
+double-conversion/stable 3.3.0 aarch64
+doxygen/stable 1.9.7 aarch64
+dpkg-perl/stable 1.21.22 all
+dpkg-scanpackages/stable 1.21.22 all
+dpkg/stable,now 1.21.22 aarch64 [installed]
+dpp/tur-packages 10.0.24 aarch64
+dropbear/stable 2022.83-1 aarch64
+dtach/stable 0.9 aarch64
+dtc-static/stable 1.7.0 aarch64
+dtc/stable 1.7.0 aarch64
+dte/stable 1.11.1-1 aarch64
+dua/stable 2.20.1 aarch64
+duc/stable 1.4.5 aarch64
+duckdb/stable 0.8.1 aarch64
+duf/stable 0.8.1-2 aarch64
+dufs/stable 0.34.2 aarch64
+duktape/stable 2.7.0 aarch64
+dust/stable 0.8.6 aarch64
+dvdauthor/stable 0.7.2-2 aarch64
+dvtm/stable 0.15-3 aarch64
+dwarves/stable 1.25 aarch64
+dx/stable 1:1.16-6 all
+e2fsprogs/stable 1.47.0-1 aarch64
+e2tools/stable 0.1.0 aarch64
+ecj/stable 1:4.12-4 all
+ecl/stable 21.2.1-2 aarch64
+ed/stable,now 1.19 aarch64 [installed]
+edbrowse/stable 3.8.7 aarch64
+edex-ui/tur-packages 2.2.8 aarch64
+eigen/stable,now 3.4.0 aarch64 [installed,automatic]
+eja/stable 13.11.25 aarch64
+electric-fence-static/stable 2.2.6 aarch64
+electric-fence/stable 2.2.6 aarch64
+electron-deps/tur-packages 0.0.2 all
+electron-is-electron21/tur-packages 21.4.1 aarch64
+electron-is-electron22/tur-packages 22.2.0-1 aarch64
+electron21/tur-packages 21.4.1 aarch64
+electron22/tur-packages 22.2.0-1 aarch64
+electron/tur-packages 23.0.0 aarch64
+electrum/stable 4.4.5 all
+elfutils/stable 0.189 aarch64
+elinks/stable 0.16.1.1-1 aarch64
+elixir/stable 1.15.2 all
+eltclsh/stable 1.18 aarch64
+elvish/stable 0.19.2-1 aarch64
+emacs/stable 28.3-rc1-1 aarch64
+emscripten-binaryen/stable 3.1.43 aarch64
+emscripten-llvm/stable 3.1.43 aarch64
+emscripten-tests-third-party/stable 3.1.43 all
+emscripten/stable 3.1.43 all
+enblend/stable 4.2.0p20161007-2 aarch64
+encfs/root 2020.05.09-c444f9b9-2 aarch64
+enchant-static/stable 2.5.0 aarch64
+enchant/stable 2.5.0 aarch64
+enscript/stable 1.6.6-12 aarch64
+entr/stable 5.3 aarch64
+erlang/stable 26.0.2 aarch64
+esbuild/stable 0.18.11 aarch64
+espeak-static/stable 1.51-1 aarch64
+espeak/stable 1.51-1 aarch64
+et/stable 6.2.4-2 aarch64
+ethtool/root 6.1 aarch64
+etsh/stable 5.4.0 aarch64
+ettercap/root 0.8.3.1-7 aarch64
+exa/stable 0.10.1-6 aarch64
+exercism/stable 3.1.0-3 aarch64
+exhale/stable 1.2.0 aarch64
+exiftool/stable 12.64-1 all
+exiv2-static/stable 2:0.27.7-1 aarch64
+exiv2/stable 2:0.27.7-1 aarch64
+expac/tur-packages 10 aarch64
+expect/stable 5.45.4-3 aarch64
+fact++/stable 1.6.5-1 aarch64
+fakepkg/tur-packages 1.42.2 all
+fakeroot-static/stable 1.31 aarch64
+fakeroot/stable 1.31 aarch64
+fasd/stable 1.0.2 aarch64
+fastfetch/stable 1.12.2-1 aarch64
+fastmod/stable 0.4.3 aarch64
+fatsort/stable 1.6.5.640 aarch64
+fclones/stable 0.32.1 aarch64
+fcp/stable 0.2.1 aarch64
+fd/stable 8.7.0 aarch64
+fdisk/stable 2.39.1 aarch64
+fdkaac/stable 1.0.5 aarch64
+fdm/stable 2.2 aarch64
+fdroidcl/stable 0.7.0-1 aarch64
+fdupes/stable 2.2.1 aarch64
+feed2imap-go/tur-packages 1.7.0 aarch64
+fennel/stable 1.3.0 all
+feroxbuster/stable 2.10.0 aarch64
+fetchmail/stable 6.4.37 aarch64
+fetchmailconf/stable 6.4.37 all
+fex-static/stable 2212 aarch64
+fex/stable 2212 aarch64
+fff/stable 2.2 all
+ffmpeg/stable 6.0-5 aarch64
+ffsend/stable 0.2.76 aarch64
+fftw-static/stable 3.3.10-3 aarch64
+fftw/stable,now 3.3.10-3 aarch64 [installed,automatic]
+figlet/stable 2.2.5-2 aarch64
+file-static/stable 5.44 aarch64
+file/stable 5.44 aarch64
+finch-static/stable 2.14.12-1 aarch64
+finch/stable 2.14.12-1 aarch64
+findomain/stable 9.0.0 aarch64
+findutils/stable,now 4.9.0-2 aarch64 [installed]
+fish/stable,now 3.6.1-1 aarch64 [installed]
+flac/stable 1.4.3 aarch64
+flang-16/tur-packages 20220907-1 aarch64
+flang/stable 16.0.5 aarch64
+flatbuffers-static/stable 23.5.26 aarch64
+flatbuffers/stable 23.5.26 aarch64
+flex-static/stable 2.6.4-3 aarch64
+flex/stable,now 2.6.4-3 aarch64 [installed]
+fluidsynth/stable 2.3.3 aarch64
+flyctl/stable 0.1.54 aarch64
+fm/stable 0.15.10-2 aarch64
+fmt/stable,now 1:9.1.0 aarch64 [installed,automatic]
+fontconfig-static/stable 2.14.2-2 aarch64
+fontconfig-utils/stable 2.14.2-2 aarch64
+fontconfig/stable 2.14.2-2 aarch64 [upgradable from: 2.14.2-1]
+forestdb-dump/stable 1.2 aarch64
+fortune/stable 1.2-1 aarch64
+fossil/stable 2.22 aarch64
+freecolor/stable 0.9.3 aarch64
+freeimage-static/stable 3.18.0-5 aarch64
+freeimage/stable 3.18.0-5 aarch64
+freetype-static/stable 2.13.1 aarch64
+freetype/stable 2.13.1 aarch64 [upgradable from: 2.13.0-1]
+frei0r-plugins/stable 1.8.0 aarch64
+fribidi-static/stable 1.0.13 aarch64
+fribidi/stable,now 1.0.13 aarch64 [installed,automatic]
+frida-dev/root 16.1.1 aarch64
+frida-python/root 16.1.1 aarch64
+frida/root 16.1.1 aarch64
+frobtads/stable 2.0-3 aarch64
+frogcomposband/stable 7.1.salmiak-1 aarch64
+frotz/stable 2.54-1 aarch64
+frp/stable 0.51.0 aarch64
+frpc/stable 0.51.0 aarch64
+frps/stable 0.51.0 aarch64
+fscan/tur-packages 1.8.1 aarch64
+fselect/stable 0.8.4 aarch64
+fsmon/stable 1.8.5 aarch64
+fte/stable 20110708-1 aarch64
+fwknop-static/stable 2.6.10-5 aarch64
+fwknop/stable 2.6.10-5 aarch64
+fx/stable 24.1.0 aarch64
+fzf/stable 0.42.0 aarch64
+fzy/stable 1.0 aarch64
+g-ir-scanner/stable 1.76.1 aarch64
+game-music-emu/stable 0.6.3-1 aarch64
+gap-packages/stable 4.12.2 all
+gap-static/stable 4.12.2 aarch64
+gap/stable 4.12.2 aarch64
+gatling/stable 0.16-1 aarch64
+gauche-static/stable 0.9.12-2 aarch64
+gauche/stable 0.9.12-2 aarch64
+gawk-static/stable 5.2.2 aarch64
+gawk/stable,now 5.2.2 aarch64 [installed]
+gbt/stable 2.0.0-5 aarch64
+gcal/stable 4.1-3 aarch64
+gcc-10/tur-packages 10.4.0-1 aarch64
+gcc-11/tur-packages 11.3.0-3 aarch64
+gcc-12/tur-packages 12.2.0 aarch64
+gcc-9/tur-packages 9.5.0-1 aarch64
+gcc-default-10/tur-packages 0.1-4 all
+gcc-default-11/tur-packages 0.1-4 all
+gcc-default-12/tur-packages 0.1-4 all
+gcc-default-9/tur-packages 0.1-4 all
+gcc-default/tur-packages 0.1-4 all
+gdal-static/stable 3.5.3 aarch64
+gdal/stable 3.7.0-2 aarch64
+gdb/stable 13.2-1 aarch64
+gdbm-static/stable 1.23 aarch64
+gdbm/stable,now 1.23 aarch64 [installed,automatic]
+gdbserver/stable 13.2-1 aarch64
+gdk-pixbuf/stable 2.42.10-2 aarch64 [upgradable from: 2.42.10-1]
+gdrive-downloader/stable 1:1.1 all
+gdu/stable 5.25.0 aarch64
+geckodriver/stable 0.33.0 aarch64
+gecode-static/stable 6.2.0 aarch64
+gecode/stable 6.2.0 aarch64
+gegl/stable 0.4.46-1 aarch64
+genext2fs/tur-packages 1.5.0 aarch64
+gengetopt/stable 2.23-2 aarch64
+geographiclib/stable 2.2 aarch64
+geoip2-database/stable,now 20191221-2 all [installed,automatic]
+germanium/stable 1.2.3-2 aarch64
+getconf/stable 0.6 aarch64
+geth-utils/stable 1.12.0 aarch64
+geth/stable 1.12.0 aarch64
+gettext-static/stable 0.22 aarch64
+gettext/stable,now 0.22 aarch64 [installed,automatic]
+gexiv2/stable 0.14.1 aarch64
+gflags-static/stable 2.2.2-9 aarch64
+gflags/stable,now 2.2.2-9 aarch64 [installed,automatic]
+gforth/stable 0.7.3-1 aarch64
+gh/stable 2.32.0 aarch64
+ghc-libs-static/stable 8.10.7-3 aarch64
+ghc-libs/stable 9.2.5-1 aarch64
+ghc/stable 9.2.5-1 aarch64
+ghostscript/stable 10.01.2-1 aarch64
+giflib-static/stable 5.2.1-2 aarch64
+giflib-utils/stable 5.2.1-2 aarch64
+giflib/stable,now 5.2.1-2 aarch64 [installed,automatic]
+gifsicle/stable 1.94 aarch64
+gifski/stable 1.11.0 aarch64
+git-crypt/stable 0.7.0-2 aarch64
+git-delta/stable 0.16.5 aarch64
+git-gitk/stable 2.41.0 aarch64
+git-gui/stable 2.41.0 aarch64
+git-lfs/stable 3.3.0-2 aarch64
+git-sizer/stable 1.5.0-3 aarch64
+git-svn/stable 2.41.0 all
+git/stable,now 2.41.0 aarch64 [installed]
+gitea/stable 1.19.4 aarch64
+gitflow-avh/stable 1.12.3-9 all
+gitoxide/stable 0.1.0-1 aarch64
+gitui/stable 0.23.0 aarch64
+gkermit/stable 1.00-2 aarch64
+glab-cli/stable 1.31.0 aarch64
+glib-bin/stable 2.76.3 aarch64
+glib-networking/stable,now 2.76.1 aarch64 [installed,automatic]
+glib/stable,now 2.76.3 aarch64 [installed,automatic]
+glm/stable 0.9.9.8 aarch64
+glmark2/tur-packages 2023.01 aarch64
+global-static/stable 6.6.10 aarch64
+global/stable 6.6.10 aarch64
+glow/stable 1.5.1 aarch64
+glpk-static/stable 5.0-1 aarch64
+glpk/stable 5.0-1 aarch64
+glslang/stable,now 12.2.0 aarch64 [installed,automatic]
+gluelang/stable 0.2.0-1 aarch64
+glulxe/stable 0.5.4-5 aarch64
+gmic-gm/stable 3.2.6 aarch64
+gmic/stable 3.2.6 aarch64
+gn/stable 20220502-1 aarch64
+gnucap/stable 20210107-3 aarch64
+gnuchess/stable 6.2.9-2 aarch64
+gnucobol-static/stable 3.1.2-2 aarch64
+gnucobol/stable 3.1.2-2 aarch64
+gnugo/stable 3.8-5 aarch64
+gnuit/stable 4.9.5 aarch64
+gnunet-static/stable 0.19.4 aarch64
+gnunet/stable 0.19.4 aarch64
+gnupg/stable,now 2.4.3 aarch64 [installed,automatic]
+gnuplot/stable 5.4.8 aarch64
+gnurl-static/stable 7.72.0 aarch64
+gnurl/stable 7.72.0 aarch64
+gnushogi/stable 1.4.2-4 aarch64
+gnuski/stable 0.3-6 aarch64
+gnustep-make/stable,now 2.9.1 aarch64 [installed,automatic]
+gnutls/stable 3.8.0-1 aarch64
+go-cqhttp/tur-packages 1.1.0 aarch64
+go-findimagedupes/stable 2023.01.29-2 aarch64
+goaccess/stable 1.7.2 aarch64
+gobang/stable 0.1.0-alpha.5-1 aarch64
+gobject-introspection/stable 1.76.1 aarch64
+gocryptfs/root 2.4.0 aarch64
+gogs/stable 0.13.0-1 aarch64
+gojq/stable 0.12.13 aarch64
+golang-doc/stable 3:1.20.5 aarch64
+golang/stable,now 3:1.20.5 aarch64 [installed]
+gomp/stable 2023.02.02-1 aarch64
+gomuks/stable 0.3.0-2 aarch64
+google-drive-upload/stable 4.5 all
+google-glog/stable,now 0.6.0-1 aarch64 [installed,automatic]
+googletest/stable 1.13.0 aarch64
+goose/stable 3.13.4 aarch64
+gopass/stable 1.15.5-1 aarch64
+gopher/stable 3.0.17.3-1 aarch64
+gotop/stable 4.2.0-2 aarch64
+gotty/stable 1.5.0-2 aarch64
+gpac-static/stable 2.2.1-1 aarch64
+gpac/stable 2.2.1-1 aarch64
+gperf/stable 3.1-6 aarch64
+gpgme-static/stable 1.20.0 aarch64
+gpgme/stable 1.20.0 aarch64
+gpgmepp-static/stable 1.20.0 aarch64
+gpgmepp/stable 1.20.0 aarch64
+gpgv/stable 2.4.3 aarch64 [upgradable from: 2.4.2]
+gping/stable 1.13.1 aarch64
+gpsbabel/stable 1.4.4-2 aarch64
+gptfdisk/root 1.0.9-1 aarch64
+gradle/stable 1:8.2 all
+grafana/stable 8.5.27 aarch64
+graphene/stable 1.10.8-1 aarch64
+graphicsmagick-static/stable 1.3.40-2 aarch64
+graphicsmagick/stable 1.3.40-2 aarch64
+graphviz-static/stable 8.1.0 aarch64
+graphviz/stable 8.1.0 aarch64
+greed/stable 4.2-2 aarch64
+grep/stable,now 3.11 aarch64 [installed]
+grex/stable 1.4.1 aarch64
+groff/stable 1.23.0 aarch64
+gron/stable 0.7.1-2 aarch64
+groovy/stable 4.0.13 all
+grv/stable 0.3.2-1 aarch64
+gsasl/stable 2.2.0 aarch64
+gsf-tools/stable 1.14.50-1 aarch64
+gsl-static/stable 2.7.1 aarch64
+gsl/stable,now 2.7.1 aarch64 [installed,automatic]
+gst-libav/stable 1.22.4 aarch64
+gst-plugins-bad/stable 1.22.4-1 aarch64
+gst-plugins-base/stable 1.22.4-1 aarch64
+gst-plugins-gl-headers/stable 1.22.4-1 all
+gst-plugins-good/stable 1.22.4-2 aarch64
+gst-plugins-ugly/stable 1.22.4 aarch64
+gst-python/stable 1.22.4 aarch64
+gstreamer/stable 1.22.4 aarch64
+gtkcord4/tur-packages 0.0.4 aarch64
+gtt/tur-packages 8 aarch64
+gtypist/stable 2.9.5-2 aarch64
+guile-static/stable 3.0.9-2 aarch64
+guile18-static/stable 1.8.8-16 aarch64
+guile18/stable 1.8.8-16 aarch64
+guile/stable 3.0.9-2 aarch64
+gum/stable 0.10.0-1 aarch64
+gumbo-parser-static/stable 0.10.1 aarch64
+gumbo-parser/stable,now 0.10.1 aarch64 [installed,automatic]
+gzip/stable,now 1.12-1 aarch64 [installed]
+haproxy/stable 2.4.23-1 aarch64
+hare-cross/tur-packages 20230423 aarch64
+hare/tur-packages 20230423 aarch64
+harec-cross/tur-packages 20230421 aarch64
+harec/tur-packages 20230421 aarch64
+harfbuzz-icu/stable 7.3.0 aarch64
+harfbuzz-utils/stable 7.3.0 aarch64
+harfbuzz/stable,now 7.3.0 aarch64 [installed,automatic]
+has/stable 1.4.0 all
+hash-slinger/stable 3.3 all
+hashdeep/stable 4.4-8 aarch64
+hcl/stable 2.17.0 aarch64
+hcloud/stable 1.36.0 aarch64
+helix-grammars/stable 23.05 aarch64
+helix/stable 23.05 aarch64
+hello-tur-on-device/tur-packages 0.1 aarch64
+hello/stable 2.12.1-1 aarch64
+helm/stable 3.12.1 aarch64
+help2man/stable 1.49.3 all
+hexcurse/stable 1.60.0-4 aarch64
+hexedit/stable 1.6 aarch64
+hexer/stable 1.0.6 aarch64
+hexyl/stable 0.13.0 aarch64
+heyu/stable 1:2.10.3-1 aarch64
+hfsutils/stable 3.2.6-1 aarch64
+hnterm/stable 1.0.5-1 aarch64
+hoedown-static/stable 3.0.7-3 aarch64
+hoedown/stable 3.0.7-3 aarch64
+hollywood/stable 1.21-4 all
+hors/stable 0.8.2-1 aarch64
+hping3/root 3.0.0-3 aarch64
+hr/stable 1.4 all
+hstr/stable 3.1 aarch64
+html-xml-utils/stable 8.6 aarch64
+html2text/stable 1:2.1.1-1 aarch64
+htop/stable 3.2.2 aarch64
+htslib-static/stable 1.17-1 aarch64
+htslib/stable 1.17-1 aarch64
+httping/stable 2.9 aarch64
+httrack-data/stable 3.49.4 all
+httrack-static/stable 3.49.4 aarch64
+httrack/stable 3.49.4 aarch64
+hub/stable 2.14.2-3 aarch64
+hugo/stable 0.115.2 aarch64
+hummin/stable 2021.05.18-2 aarch64
+hunspell-en-us/stable 20210101 all
+hunspell-fr/stable 20221031 all
+hunspell-hu/stable 2023.07.08 all
+hunspell-nl/stable 2013.07.22 all
+hunspell-ru/stable 20210731 all
+hunspell-static/stable 1.7.2 aarch64
+hunspell/stable 1.7.2 aarch64
+hurl/tur-packages 4.0.0-1 aarch64
+hut/stable 0.3.0 aarch64
+hw-probe/root 1.6.5 all
+hwinfo/root 22.3 aarch64
+hydroxide/stable 0.2.27 aarch64
+hyperfine/stable 1.17.0 aarch64
+hz/stable 0.6.6 aarch64
+i2pd-static/stable 2.48.0 aarch64
+i2pd/stable 2.48.0 aarch64
+icecast/stable 2.4.4-4 aarch64
+iconv/stable 1.17 aarch64
+icoutils/stable 0.32.3 aarch64
+icu-devtools/stable 73.2 aarch64
+id3lib-static/stable 3.8.3-3 aarch64
+id3lib/stable 3.8.3-3 aarch64
+id3ted/stable 1.0-3 aarch64
+id3v2/stable 0.1.12-1 aarch64
+imagemagick-static/stable 7.1.1.12-1 aarch64
+imagemagick/stable 7.1.1.12-1 aarch64
+imath/stable 3.1.9 aarch64
+imgflo/stable 0.4.2-7 aarch64
+imlib2-static/stable 1.11.1-2 aarch64
+imlib2/stable,now 1.11.1-2 aarch64 [installed,automatic]
+indent/stable 2.2.13 aarch64
+inetutils/stable,now 2.4-1 aarch64 [installed]
+influxdb/stable 1.8.10-2 aarch64
+innoextract/stable 1.9-5 aarch64
+inotify-tools-static/stable 3.22.6.0 aarch64
+inotify-tools/stable 3.22.6.0 aarch64
+intltool/stable 0.51.0-3 all
+inxi/stable 3.3.27-1-0 all
+iodine/root 0.8.0 aarch64
+ipcalc/stable 0.51 aarch64
+iperf3-static/stable 3.13 aarch64
+iperf3/stable 3.13 aarch64
+ipfs/stable 0.21.0 aarch64
+ipmitool/stable 1.8.19 aarch64
+iproute2/stable 6.4.0 aarch64
+ipset-static/root 7.17 aarch64
+ipset/root 7.17 aarch64
+iptables-static/root 1.8.9 aarch64
+iptables/root 1.8.9 aarch64
+ipv6calc/stable 4.1.0 aarch64
+ipv6toolkit/stable 2022.09.30-2 aarch64
+ircd-irc2/stable 2.11.2p3-1 aarch64
+ired/stable 0.6-2 aarch64
+irssi/stable 1.4.4-2 aarch64
+isync/stable 1.4.4 aarch64
+iverilog-static/stable 12.0 aarch64
+iverilog/stable 12.0 aarch64
+iw/root 5.19 aarch64
+iwyu/stable 0.20-1 aarch64
+jbig2dec-static/stable 0.19-1 aarch64
+jbig2dec/stable,now 0.19-1 aarch64 [installed,automatic]
+jbig2enc-static/stable 2023.01.08-1 aarch64
+jbig2enc/stable 2023.01.08-1 aarch64
+jcal-static/stable 0.4.1 aarch64
+jcal/stable 0.4.1 aarch64
+jfrog-cli/stable 2.42.1 aarch64
+jftui/stable 0.6.2 aarch64
+jhead/stable,now 3.08 aarch64 [installed]
+jigdo/stable,now 0.8.1-1 aarch64 [installed]
+jira-go/stable,now 1.0.28-1 aarch64 [installed]
+jo/stable,now 1.9 aarch64 [installed]
+joe/stable 4.6-2 aarch64
+jove/stable,now 4.17.5.3 aarch64 [installed]
+jp2a/stable,now 1.1.1-1 aarch64 [installed]
+jpegoptim/stable,now 1.5.4-1 aarch64 [installed]
+jq-static/stable,now 1.6-3 aarch64 [installed]
+jq/stable,now 1.6-3 aarch64 [installed]
+jql/stable,now 7.0.0 aarch64 [installed]
+json-c-static/stable,now 0.16-1 aarch64 [installed]
+json-c/stable,now 0.16-1 aarch64 [installed]
+json-glib/stable,now 1.6.6-3 aarch64 [installed]
+jsoncpp-static/stable,now 1.9.5-1 aarch64 [installed]
+jsoncpp/stable,now 1.9.5-1 aarch64 [installed]
+jump/stable,now 0.51.0-2 aarch64 [installed]
+jupp/stable,now 3.1jupp41 aarch64 [installed]
+jython/stable,now 2.7.3 all [installed]
+k2pdfopt/stable,now 2.54-4 aarch64 [installed]
+k9s/stable,now 0.27.4 aarch64 [installed]
+kainjow-mustache/stable,now 4.1 all [installed]
+kak-lsp/stable,now 14.2.0 aarch64 [installed]
+kakoune/stable,now 2022.10.31 aarch64 [installed]
+kcptun-client/stable,now 20230214-1 aarch64 [installed]
+kcptun-server/stable,now 20230214-1 aarch64 [installed]
+kcptun/stable,now 20230214-1 aarch64 [installed]
+keybase/stable,now 6.0.4-1 aarch64 [installed]
+keychain/stable,now 2.8.5-1 all [installed]
+keystone/stable,now 0.9.2-3 aarch64 [installed]
+keyutils-static/root,now 1.6.3-1 aarch64 [installed]
+keyutils/root,now 1.6.3-1 aarch64 [installed]
+kibi/stable,now 0.2.2 aarch64 [installed]
+kiwix-tools/stable,now 3.5.0 aarch64 [installed]
+knockd/stable,now 0.8-2 aarch64 [installed]
+knot-utils/stable,now 3.2.4-1 aarch64 [installed]
+kona/stable,now 20211225 aarch64 [installed]
+kotlin/stable,now 1.8.22 all [installed]
+krabby/tur-packages,now 0.1.6 aarch64 [installed]
+krb5/stable,now 1.21 aarch64 [installed]
+kubectl/stable,now 1.27.3 aarch64 [installed]
+kubelogin/stable,now 1.28.0 aarch64 [installed]
+ladspa-sdk/stable,now 1.17-1 aarch64 [installed]
+lame/stable,now 3.100-4 aarch64 [installed]
+lastpass-cli/stable,now 1.3.4-1 aarch64 [installed]
+lazygit/stable,now 0.38.2 aarch64 [installed]
+lazyread/stable,now 2.0-1 aarch64 [installed]
+lcal/stable,now 2.1.0 aarch64 [installed]
+ldc/stable,now 1.30.0 aarch64 [installed]
+ldd/stable,now 0.2 aarch64 [installed]
+ldns-static/stable,now 1.8.3-2 aarch64 [installed]
+ldns/stable,now 1.8.3-2 aarch64 [installed]
+ledger/stable,now 3.3.2-1 aarch64 [installed]
+leptonica-static/stable,now 1.83.1-1 aarch64 [installed]
+leptonica/stable,now 1.83.1-1 aarch64 [installed]
+less/stable,now 633-1 aarch64 [installed]
+lesspipe/stable,now 2.08 all [installed]
+leveldb/stable,now 1.23-2 aarch64 [installed]
+lexbor/stable,now 2.2.0 aarch64 [installed]
+lexter/stable,now 1.0.3-3 aarch64 [installed]
+lf/stable,now 30 aarch64 [installed]
+lfortran-llvm/tur-packages 0.15.0 aarch64
+lfortran-static/stable 0.19.0 aarch64
+lfortran/stable,now 0.19.0 aarch64 [installed]
+lftp-static/stable,now 4.9.2-6 aarch64 [installed]
+lftp/stable,now 4.9.2-6 aarch64 [installed]
+lgogdownloader/stable,now 3.11-1 aarch64 [installed]
+lhasa-static/stable,now 0.4.0 aarch64 [installed]
+lhasa/stable,now 0.4.0 aarch64 [installed]
+lib-tls-client/tur-packages,now 1.4.0 aarch64 [installed]
+liba52-static/stable,now 0.7.4 aarch64 [installed]
+liba52/stable,now 0.7.4 aarch64 [installed]
+libacl-static/stable,now 2.3.1 aarch64 [installed]
+libacl/stable,now 2.3.1 aarch64 [installed]
+libaio-static/root,now 0.3.113 aarch64 [installed]
+libaio/root,now 0.3.113 aarch64 [installed]
+libandroid-complex-math-static/stable,now 0.1 aarch64 [installed]
+libandroid-complex-math/stable,now 0.1 aarch64 [installed]
+libandroid-execinfo-static/stable,now 0.1-1 aarch64 [installed]
+libandroid-execinfo/stable,now 0.1-1 aarch64 [installed]
+libandroid-glob-static/stable,now 0.6-2 aarch64 [installed]
+libandroid-glob/stable,now 0.6-2 aarch64 [installed]
+libandroid-mathlib-static/tur-packages,now 0.1 aarch64 [installed]
+libandroid-mathlib/tur-packages,now 0.1 aarch64 [installed]
+libandroid-nl-types-static/tur-packages,now 0.1-1 aarch64 [installed]
+libandroid-nl-types/tur-packages,now 0.1-1 aarch64 [installed]
+libandroid-posix-semaphore-static/stable,now 0.1-3 aarch64 [installed]
+libandroid-posix-semaphore/stable,now 0.1-3 aarch64 [installed]
+libandroid-shmem-static/stable,now 0.4 aarch64 [installed]
+libandroid-shmem/stable,now 0.4 aarch64 [installed]
+libandroid-spawn-static/stable,now 0.3 aarch64 [installed]
+libandroid-spawn/stable,now 0.3 aarch64 [installed]
+libandroid-support-static/stable,now 28-3 aarch64 [installed]
+libandroid-support/stable,now 28-3 aarch64 [installed]
+libandroid-sysv-semaphore-static/stable,now 0.1 aarch64 [installed]
+libandroid-sysv-semaphore/stable,now 0.1 aarch64 [installed]
+libandroid-wordexp-static/stable,now 0.1 aarch64 [installed]
+libandroid-wordexp/stable,now 0.1 aarch64 [installed]
+libandroid/stable,now 25c-1 aarch64 [installed]
+libao-static/stable,now 1.2.2-7 aarch64 [installed]
+libao/stable,now 1.2.2-7 aarch64 [installed]
+libaom-static/stable,now 3.6.1 aarch64 [installed]
+libaom/stable,now 3.6.1 aarch64 [installed]
+libapt-pkg-perl/stable,now 0.1.40-9 aarch64 [installed]
+libarchive-static/stable,now 3.6.2-2 aarch64 [installed]
+libarchive/stable,now 3.6.2-2 aarch64 [installed]
+libarrow-cpp/stable,now 12.0.1-1 aarch64 [installed]
+libasio/stable,now 1.24.0 all [installed]
+libasm-static/stable,now 0.189 aarch64 [installed]
+libasm/stable,now 0.189 aarch64 [installed]
+libass-static/stable,now 0.17.1 aarch64 [installed]
+libass/stable,now 0.17.1 aarch64 [installed]
+libassuan-static/stable,now 2.5.6 aarch64 [installed]
+libassuan/stable,now 2.5.6 aarch64 [installed]
+libatomic-ops-static/stable,now 7.8.0 aarch64 [installed]
+libatomic-ops/stable,now 7.8.0 aarch64 [installed]
+libbcprov-java/stable,now 1.72 all [installed]
+libblkid/stable,now 2.39.1 aarch64 [installed]
+libblocksruntime/stable 1:5.8 aarch64
+libblosc-static/stable,now 1.21.3 aarch64 [installed]
+libblosc/stable,now 1.21.3 aarch64 [installed]
+libbluray-static/stable,now 1.3.4-1 aarch64 [installed]
+libbluray-utils/stable,now 1.3.4-1 aarch64 [installed]
+libbluray/stable,now 1.3.4-1 aarch64 [installed]
+libbs2b-static/stable,now 3.1.0-1 aarch64 [installed]
+libbs2b/stable,now 3.1.0-1 aarch64 [installed]
+libbsd-static/stable,now 0.11.7 aarch64 [installed]
+libbsd/stable,now 0.11.7 aarch64 [installed]
+libbson/tur-packages,now 1.22.2-1 aarch64 [installed]
+libbullet/stable,now 3.25 aarch64 [installed]
+libburn-static/stable,now 1.5.6 aarch64 [installed]
+libburn/stable,now 1.5.6 aarch64 [installed]
+libbz2/stable,now 1.0.8-6 aarch64 [installed]
+libc++/stable,now 25c aarch64 [installed]
+libc++utilities/stable,now 5.24.0 aarch64 [installed]
+libc-client-static/stable,now 2007f-3 aarch64 [installed]
+libc-client/stable,now 2007f-3 aarch64 [installed]
+libcaca-static/stable,now 0.99.beta20-1 aarch64 [installed]
+libcaca/stable,now 0.99.beta20-1 aarch64 [installed]
+libcairo/stable,now 1.17.8 aarch64 [installed]
+libcairomm-1.0/stable,now 1.14.4 aarch64 [installed]
+libcairomm-1.16/stable,now 1.16.2 aarch64 [installed]
+libcap-ng-static/stable,now 2:0.8.3 aarch64 [installed]
+libcap-ng/stable,now 2:0.8.3 aarch64 [installed]
+libcap-static/stable,now 2.69 aarch64 [installed]
+libcap/stable,now 2.69 aarch64 [installed]
+libccd/stable,now 2.1-1 aarch64 [installed]
+libccid/root,now 1.5.2 aarch64 [installed]
+libcddb-static/stable,now 1.3.2 aarch64 [installed]
+libcddb/stable,now 1.3.2 aarch64 [installed]
+libcdk/stable,now 5.0-20230201-0 aarch64 [installed]
+libcec/stable,now 6.0.2-1 aarch64 [installed]
+libceres-solver/stable,now 2.1.0 aarch64 [installed]
+libchipmunk/stable,now 7.0.3-1 aarch64 [installed]
+libcln-static/stable,now 1.3.6-5 aarch64 [installed]
+libcln/stable,now 1.3.6-5 aarch64 [installed]
+libcloog-static/stable,now 0.21.1 aarch64 [installed]
+libcloog/stable,now 0.21.1 aarch64 [installed]
+libcoap-static/stable,now 4.3.1 aarch64 [installed]
+libcoap/stable,now 4.3.1 aarch64 [installed]
+libcoinor-osi-static/stable,now 1:0.108.7 aarch64 [installed]
+libcoinor-osi/stable,now 1:0.108.7 aarch64 [installed]
+libcoinor-utils-static/stable,now 1:2.11.6 aarch64 [installed]
+libcoinor-utils/stable,now 1:2.11.6 aarch64 [installed]
+libcommons-lang3-java/stable,now 3.12.0 all [installed]
+libcompiler-rt-16/tur-packages 20230603-16.0-0 all
+libcompiler-rt/stable,now 16.0.6-1 aarch64 [installed]
+libconfig-static/stable,now 1.7.3-3 aarch64 [installed]
+libconfig/stable,now 1.7.3-3 aarch64 [installed]
+libconfuse-static/stable,now 3.3 aarch64 [installed]
+libconfuse/stable,now 3.3 aarch64 [installed]
+libcpufeatures/stable,now 0.8.0-1 aarch64 [installed]
+libcroco-static/stable,now 0.6.13-8 aarch64 [installed]
+libcroco/stable,now 0.6.13-8 aarch64 [installed]
+libcrypt/stable,now 0.2-5 aarch64 [installed]
+libcryptsetup-static/root,now 2.4.3-3 aarch64 [installed]
+libcryptsetup/root,now 2.4.3-3 aarch64 [installed]
+libcue/stable,now 2.2.1-1 aarch64 [installed]
+libcunit-static/stable,now 2.1.3 aarch64 [installed]
+libcunit/stable,now 2.1.3 aarch64 [installed]
+libcurl-static/stable,now 8.1.2 aarch64 [installed]
+libcurl/stable,now 8.1.2 aarch64 [installed]
+libczmq-static/stable,now 4.2.1-3 aarch64 [installed]
+libczmq/stable,now 4.2.1-3 aarch64 [installed]
+libdaemon-static/stable,now 0.14 aarch64 [installed]
+libdaemon/stable,now 0.14 aarch64 [installed]
+libdart/stable,now 6.13.0 aarch64 [installed]
+libdav1d/stable,now 1.2.1 aarch64 [installed]
+libdb-static/stable,now 18.1.40-4 aarch64 [installed]
+libdb/stable,now 18.1.40-4 aarch64 [installed]
+libde265-static/stable,now 1.0.12 aarch64 [installed]
+libde265/stable,now 1.0.12 aarch64 [installed]
+libdebuginfod/stable,now 0.189 aarch64 [installed]
+libdeflate-static/stable,now 1.18 aarch64 [installed]
+libdeflate/stable,now 1.18 aarch64 [installed]
+libdevil/stable,now 1.8.0-5 aarch64 [installed]
+libdevmapper/root,now 2.03.21 aarch64 [installed]
+libdispatch/stable 1:5.8 aarch64
+libdmtx-static/stable,now 0.7.7 aarch64 [installed]
+libdmtx/stable,now 0.7.7 aarch64 [installed]
+libdns-sd-static/root,now 0.8-9 aarch64 [installed]
+libdns-sd/root,now 0.8-9 aarch64 [installed]
+libdrm/stable,now 2.4.115 aarch64 [installed]
+libduckdb-static/stable,now 0.8.1 aarch64 [installed]
+libduckdb/stable,now 0.8.1 aarch64 [installed]
+libduktape/stable,now 2.7.0 aarch64 [installed]
+libdvbcsa-static/stable,now 1.1.0-2 aarch64 [installed]
+libdvbcsa/stable,now 1.1.0-2 aarch64 [installed]
+libdvbpsi-static/stable,now 1.3.3 aarch64 [installed]
+libdvbpsi/stable,now 1.3.3 aarch64 [installed]
+libdvdnav-static/stable,now 6.1.1 aarch64 [installed]
+libdvdnav/stable,now 6.1.1 aarch64 [installed]
+libdvdread-static/stable,now 6.1.3 aarch64 [installed]
+libdvdread/stable,now 6.1.3 aarch64 [installed]
+libdw-static/stable,now 0.189 aarch64 [installed]
+libdw/stable,now 0.189 aarch64 [installed]
+libebml/stable,now 1.4.4 aarch64 [installed]
+libebur128/stable,now 1.2.6 aarch64 [installed]
+libedit-static/stable,now 20221030-3.1-0 aarch64 [installed]
+libedit/stable,now 20221030-3.1-0 aarch64 [installed]
+libelf-static/stable,now 0.189 aarch64 [installed]
+libelf/stable,now 0.189 aarch64 [installed]
+libenet-static/stable,now 1.3.17 aarch64 [installed]
+libenet/stable,now 1.3.17 aarch64 [installed]
+libev-static/stable,now 4.33-1 aarch64 [installed]
+libev/stable,now 4.33-1 aarch64 [installed]
+libevent/stable,now 2.1.12-2 aarch64 [installed]
+libexecinfo-static/stable 1.1 aarch64
+libexif-static/stable,now 0.6.24 aarch64 [installed]
+libexif/stable,now 0.6.24 aarch64 [installed]
+libexpat-static/stable,now 2.5.0-1 aarch64 [installed]
+libexpat/stable,now 2.5.0-1 aarch64 [installed]
+libfann/stable,now 2.2.0 aarch64 [installed]
+libfcl/stable,now 0.7.0-1 aarch64 [installed]
+libfdisk/stable,now 2.39.1 aarch64 [installed]
+libfdk-aac-static/stable,now 2.0.2-3 aarch64 [installed]
+libfdk-aac/stable,now 2.0.2-3 aarch64 [installed]
+libffi-static/stable,now 3.4.4-1 aarch64 [installed]
+libffi/stable,now 3.4.4-1 aarch64 [installed]
+libfinalcut-static/stable,now 0.8.0-2 aarch64 [installed]
+libfinalcut/stable,now 0.8.0-2 aarch64 [installed]
+libfixposix-static/stable,now 0.5.1 aarch64 [installed]
+libfixposix/stable,now 0.5.1 aarch64 [installed]
+libflac-static/stable,now 1.4.3 aarch64 [installed]
+libflac/stable,now 1.4.3 aarch64 [installed]
+libflann-static/stable 2019.04.06-1 aarch64
+libflann/stable,now 2022.10.27 aarch64 [installed]
+libforestdb/stable,now 1.2 aarch64 [installed]
+libfreexl-static/stable,now 1.0.6-1 aarch64 [installed]
+libfreexl/stable,now 1.0.6-1 aarch64 [installed]
+libftxui/stable,now 4.1.1 aarch64 [installed]
+libfuse2-static/root,now 2.9.9-1 aarch64 [installed]
+libfuse2/root,now 2.9.9-1 aarch64 [installed]
+libfuse3/root,now 3.15.1 aarch64 [installed]
+libgc-static/stable,now 8.2.4 aarch64 [installed]
+libgc/stable,now 8.2.4 aarch64 [installed]
+libgcrypt-static/stable,now 1.10.2 aarch64 [installed]
+libgcrypt/stable,now 1.10.2 aarch64 [installed]
+libgd-static/stable,now 1:2.3.3-3 aarch64 [installed]
+libgd/stable,now 1:2.3.3-3 aarch64 [installed]
+libgee-static/stable,now 0.20.6 aarch64 [installed]
+libgee/stable,now 0.20.6 aarch64 [installed]
+libgeos/stable,now 3.12.0 aarch64 [installed]
+libgeotiff/stable,now 1.7.1-1 aarch64 [installed]
+libgf2x-static/stable,now 1.3.0 aarch64 [installed]
+libgf2x/stable,now 1.3.0 aarch64 [installed]
+libgfshare-static/stable,now 2.0.0-7 aarch64 [installed]
+libgfshare/stable,now 2.0.0-7 aarch64 [installed]
+libgit2/stable,now 1.6.4 aarch64 [installed]
+libglibmm-2.4/stable,now 2.66.6 aarch64 [installed]
+libglibmm-2.68/stable,now 2.76.0 aarch64 [installed]
+libglvnd-dev/stable,now 1.6.0-1 all [installed]
+libglvnd/stable,now 1.6.0-1 aarch64 [installed]
+libgmime-static/stable,now 3.2.13 aarch64 [installed]
+libgmime/stable,now 3.2.13 aarch64 [installed]
+libgmp-static/stable,now 6.2.1-2 aarch64 [installed]
+libgmp/stable,now 6.2.1-2 aarch64 [installed]
+libgnt/stable,now 2.14.3-1 aarch64 [installed]
+libgnustep-base/stable,now 1.29.0-3 aarch64 [installed]
+libgnutls-static/stable,now 3.8.0-1 aarch64 [installed]
+libgnutls/stable,now 3.8.0-1 aarch64 [installed]
+libgpg-error-static/stable,now 1.47 aarch64 [installed]
+libgpg-error/stable,now 1.47 aarch64 [installed]
+libgraphite/stable,now 1.3.14-2 aarch64 [installed]
+libgrpc/stable,now 1.56.0-1 aarch64 [installed]
+libgsasl-static/stable,now 2.2.0 aarch64 [installed]
+libgsasl/stable,now 2.2.0 aarch64 [installed]
+libgsf-static/stable,now 1.14.50-1 aarch64 [installed]
+libgsf/stable,now 1.14.50-1 aarch64 [installed]
+libgxps/stable,now 0.3.2-2 aarch64 [installed]
+libhdf5-static/stable,now 1.14.0 aarch64 [installed]
+libhdf5/stable,now 1.14.0 aarch64 [installed]
+libheif-progs/stable,now 1.16.2-1 aarch64 [installed]
+libheif-static/stable 1.15.2 aarch64
+libheif/stable,now 1.16.2-1 aarch64 [installed]
+libhiredis-static/stable,now 1.1.0 aarch64 [installed]
+libhiredis/stable,now 1.1.0 aarch64 [installed]
+libhtmlcxx-static/stable,now 0.87-3 aarch64 [installed]
+libhtmlcxx/stable,now 0.87-3 aarch64 [installed]
+libhyphen-static/stable,now 2.8.8 aarch64 [installed]
+libhyphen/stable,now 2.8.8 aarch64 [installed]
+libical/stable,now 3.0.16-2 aarch64 [installed]
+libice-static/stable,now 1.1.1 aarch64 [installed]
+libice/stable,now 1.1.1 aarch64 [installed]
+libiconv-static/stable,now 1.17 aarch64 [installed]
+libiconv/stable,now 1.17 aarch64 [installed]
+libicu-static/stable,now 73.2 aarch64 [installed]
+libicu69/tur-packages,now 69.1-1 aarch64 [installed]
+libicu/stable,now 73.2 aarch64 [installed]
+libid3tag/stable,now 0.16.2 aarch64 [installed]
+libidn-static/stable,now 1.41 aarch64 [installed]
+libidn2-static/stable,now 2.3.4 aarch64 [installed]
+libidn2/stable,now 2.3.4 aarch64 [installed]
+libidn/stable,now 1.41 aarch64 [installed]
+libimagequant-static/stable,now 4.2.0 aarch64 [installed]
+libimagequant/stable,now 4.2.0 aarch64 [installed]
+libimobiledevice-glue-static/stable,now 1.0.0 aarch64 [installed]
+libimobiledevice-glue/stable,now 1.0.0 aarch64 [installed]
+libimobiledevice-static/stable,now 1.3.0-p20230430-0 aarch64 [installed]
+libimobiledevice/stable,now 1.3.0-p20230430-0 aarch64 [installed]
+libimtui/stable,now 1.0.5-1 aarch64 [installed]
+libinih/stable,now 57 aarch64 [installed]
+libiniparser/stable,now 4.1-1 aarch64 [installed]
+libiodbc-static/stable,now 3.52.16 aarch64 [installed]
+libiodbc/stable,now 3.52.16 aarch64 [installed]
+libisl-static/stable,now 0.26 aarch64 [installed]
+libisl/stable,now 0.26 aarch64 [installed]
+libisoburn-static/stable,now 1.5.6 aarch64 [installed]
+libisoburn/stable,now 1.5.6 aarch64 [installed]
+libisofs-static/stable,now 1.5.6.pl01 aarch64 [installed]
+libisofs/stable,now 1.5.6.pl01 aarch64 [installed]
+libjansi/stable,now 2.4.0-1 aarch64 [installed]
+libjansson-static/stable,now 2.14 aarch64 [installed]
+libjansson/stable,now 2.14 aarch64 [installed]
+libjasper-utils/stable,now 4.0.0-1 aarch64 [installed]
+libjasper/stable,now 4.0.0-1 aarch64 [installed]
+libjpeg-turbo-progs/stable,now 3.0.0 aarch64 [installed]
+libjpeg-turbo-static/stable,now 3.0.0 aarch64 [installed]
+libjpeg-turbo/stable,now 3.0.0 aarch64 [installed]
+libjxl-progs/stable,now 0.8.2-1 aarch64 [installed]
+libjxl-static/stable,now 0.8.2-1 aarch64 [installed]
+libjxl/stable,now 0.8.2-1 aarch64 [installed]
+libkiwix/stable,now 12.0.0-1 aarch64 [installed]
+libknot-static/stable,now 3.2.4-1 aarch64 [installed]
+libknot/stable,now 3.2.4-1 aarch64 [installed]
+libkokkos/stable,now 3.7.01 aarch64 [installed]
+libksba-static/stable,now 1.6.4 aarch64 [installed]
+libksba/stable,now 1.6.4 aarch64 [installed]
+liblightning-static/stable,now 2.2.0 aarch64 [installed]
+liblightning/stable,now 2.2.0 aarch64 [installed]
+libliquid-dsp-static/stable,now 1.5.0 aarch64 [installed]
+libliquid-dsp/stable,now 1.5.0 aarch64 [installed]
+libllvm-11/tur-packages 11.1.0-1 aarch64
+libllvm-16-static/tur-packages 20220907 aarch64
+libllvm-16/tur-packages 20230603-16.0-0 all
+libllvm-classic-flang/tur-packages,now 20230419-2 aarch64 [installed]
+libllvm-static/stable,now 16.0.6-1 aarch64 [installed]
+libllvm/stable,now 16.0.6-1 aarch64 [installed]
+liblmdb-static/stable,now 0.9.30 aarch64 [installed]
+liblmdb/stable,now 0.9.30 aarch64 [installed]
+liblo-static/stable,now 0.31 aarch64 [installed]
+liblo/stable,now 0.31 aarch64 [installed]
+liblog4c-static/stable,now 1.2.4-1 aarch64 [installed]
+liblog4c/stable,now 1.2.4-1 aarch64 [installed]
+liblog4cxx/stable,now 1.0.0 aarch64 [installed]
+liblqr-static/stable,now 0.4.2 aarch64 [installed]
+liblqr/stable,now 0.4.2 aarch64 [installed]
+liblrdf-static/stable,now 0.6.1 aarch64 [installed]
+liblrdf/stable,now 0.6.1 aarch64 [installed]
+libltdl/stable,now 2.4.7 aarch64 [installed]
+liblua51-static/stable,now 5.1.5 aarch64 [installed]
+liblua51/stable,now 5.1.5 aarch64 [installed]
+liblua52-static/stable,now 5.2.4-8 aarch64 [installed]
+liblua52/stable,now 5.2.4-8 aarch64 [installed]
+liblua53-static/stable,now 5.3.6 aarch64 [installed]
+liblua53/stable,now 5.3.6 aarch64 [installed]
+liblua54-static/stable,now 5.4.6-1 aarch64 [installed]
+liblua54/stable,now 5.4.6-1 aarch64 [installed]
+libluajit-static/stable,now 1:2.1.0-beta3-3 aarch64 [installed]
+libluajit/stable,now 1:2.1.0-beta3-3 aarch64 [installed]
+liblz4/stable,now 1.9.4 aarch64 [installed]
+liblzma-static/stable,now 5.4.3 aarch64 [installed]
+liblzma/stable,now 5.4.3 aarch64 [installed]
+liblzo-static/stable,now 2.10-3 aarch64 [installed]
+liblzo/stable,now 2.10-3 aarch64 [installed]
+libmaa-static/stable,now 1.3.2-2 aarch64 [installed]
+libmaa/stable,now 1.3.2-2 aarch64 [installed]
+libmad-static/stable,now 0.15.1b-3 aarch64 [installed]
+libmad/stable,now 0.15.1b-3 aarch64 [installed]
+libmariadbcpp/stable,now 1.1.2 aarch64 [installed]
+libmatio/stable,now 1.5.23 aarch64 [installed]
+libmatroska/stable,now 1.7.1 aarch64 [installed]
+libmaxminddb-static/stable,now 1.7.1 aarch64 [installed]
+libmaxminddb-tools/stable,now 1.7.1 aarch64 [installed]
+libmaxminddb/stable,now 1.7.1 aarch64 [installed]
+libmcrypt-static/stable,now 2.5.8-3 aarch64 [installed]
+libmcrypt/stable,now 2.5.8-3 aarch64 [installed]
+libmd-static/stable,now 1.1.0 aarch64 [installed]
+libmd/stable,now 1.1.0 aarch64 [installed]
+libmdbx/stable,now 0.12.3 aarch64 [installed]
+libmediainfo-static/stable,now 23.06 aarch64 [installed]
+libmediainfo/stable,now 23.06 aarch64 [installed]
+libmesode-static/stable,now 0.10.1-4 aarch64 [installed]
+libmesode/stable,now 0.10.1-4 aarch64 [installed]
+libmhash-static/stable,now 0.9.9.9-2 aarch64 [installed]
+libmhash/stable,now 0.9.9.9-2 aarch64 [installed]
+libmicrohttpd-static/stable,now 0.9.77 aarch64 [installed]
+libmicrohttpd/stable,now 0.9.77 aarch64 [installed]
+libminizip-ng/stable,now 3.0.10 aarch64 [installed]
+libminizip-static/stable,now 1.2.13 aarch64 [installed]
+libminizip/stable,now 1.2.13 aarch64 [installed]
+libmnl-static/stable,now 1.0.5 aarch64 [installed]
+libmnl/stable,now 1.0.5 aarch64 [installed]
+libmodplug-static/stable,now 0.8.9.1.r461 aarch64 [installed]
+libmodplug/stable,now 0.8.9.1.r461 aarch64 [installed]
+libmongoc-static/tur-packages,now 1.22.2-1 aarch64 [installed]
+libmongoc/tur-packages,now 1.22.2-1 aarch64 [installed]
+libmongocrypt-static/tur-packages,now 2.3.0-2 aarch64 [installed]
+libmongocrypt/tur-packages,now 2.3.0-2 aarch64 [installed]
+libmosquitto/stable,now 2.0.15 aarch64 [installed]
+libmount/stable,now 2.39.1 aarch64 [installed]
+libmp3lame-static/stable,now 3.100-4 aarch64 [installed]
+libmp3lame/stable,now 3.100-4 aarch64 [installed]
+libmp3splt-static/stable,now 0.9.2-9 aarch64 [installed]
+libmp3splt/stable,now 0.9.2-9 aarch64 [installed]
+libmpc-static/stable,now 1.3.1 aarch64 [installed]
+libmpc/stable,now 1.3.1 aarch64 [installed]
+libmpdclient/stable,now 2.20-1 aarch64 [installed]
+libmpfr-static/stable,now 4.2.0-p9-0 aarch64 [installed]
+libmpfr/stable,now 4.2.0-p9-0 aarch64 [installed]
+libmsgpack-cxx/stable,now 6.1.0 aarch64 [installed]
+libmsgpack-static/stable,now 6.0.0 aarch64 [installed]
+libmsgpack/stable,now 6.0.0 aarch64 [installed]
+libmuparser/stable,now 2.3.4 aarch64 [installed]
+libmusicbrainz/stable,now 5.1.0-2 aarch64 [installed]
+libmypaint-static/stable,now 1.6.1-1 aarch64 [installed]
+libmypaint/stable,now 1.6.1-1 aarch64 [installed]
+libnats-c-static/stable,now 3.6.1 aarch64 [installed]
+libnats-c/stable,now 3.6.1 aarch64 [installed]
+libncnn-static/stable 20230627 aarch64
+libncnn/stable,now 20230627 aarch64 [installed]
+libneon-static/stable,now 0.32.5-1 aarch64 [installed]
+libneon/stable,now 0.32.5-1 aarch64 [installed]
+libnet-static/stable,now 1.2-1 aarch64 [installed]
+libnet/stable,now 1.2-1 aarch64 [installed]
+libnetfilter-queue-static/root,now 1.0.5-3 aarch64 [installed]
+libnetfilter-queue/root,now 1.0.5-3 aarch64 [installed]
+libnettle-static/stable,now 3.9.1 aarch64 [installed]
+libnettle/stable,now 3.9.1 aarch64 [installed]
+libnewt-static/stable,now 0.52.23 aarch64 [installed]
+libnewt/stable,now 0.52.23 aarch64 [installed]
+libnfc-static/stable,now 1.8.0 aarch64 [installed]
+libnfc/stable,now 1.8.0 aarch64 [installed]
+libnfnetlink-static/root,now 1.0.2 aarch64 [installed]
+libnfnetlink/root,now 1.0.2 aarch64 [installed]
+libnfs-static/stable,now 5.0.2 aarch64 [installed]
+libnfs/stable,now 5.0.2 aarch64 [installed]
+libnftnl-static/stable,now 1.2.5 aarch64 [installed]
+libnftnl/stable,now 1.2.5 aarch64 [installed]
+libnghttp2-static/stable,now 1.54.0 aarch64 [installed]
+libnghttp2/stable,now 1.54.0 aarch64 [installed]
+libnl-cli-static/stable,now 3.7.0-2 aarch64 [installed]
+libnl-cli/stable,now 3.7.0-2 aarch64 [installed]
+libnl-static/stable,now 3.7.0-2 aarch64 [installed]
+libnl/stable,now 3.7.0-2 aarch64 [installed]
+libnova-static/stable,now 0.16 aarch64 [installed]
+libnova/stable,now 0.16 aarch64 [installed]
+libnpth-static/stable,now 1.6-1 aarch64 [installed]
+libnpth/stable,now 1.6-1 aarch64 [installed]
+libnspr-static/stable,now 4.35 aarch64 [installed]
+libnspr/stable,now 4.35 aarch64 [installed]
+libnss/stable,now 3.91 aarch64 [installed]
+libntl-static/stable,now 11.5.1-1 aarch64 [installed]
+libntl/stable,now 11.5.1-1 aarch64 [installed]
+libobjc2/stable,now 2.1-2 aarch64 [installed]
+libode/stable,now 0.16.2 aarch64 [installed]
+libogg-static/stable,now 1.3.5 aarch64 [installed]
+libogg/stable,now 1.3.5 aarch64 [installed]
+liboggz-static/stable,now 1.1.1-5 aarch64 [installed]
+liboggz/stable,now 1.1.1-5 aarch64 [installed]
+libolm/stable,now 3.2.15 aarch64 [installed]
+libopenblas/stable,now 0.3.23 aarch64 [installed]
+libopencc/stable,now 1.1.6 aarch64 [installed]
+libopencore-amr-static/stable,now 0.1.6 aarch64 [installed]
+libopencore-amr/stable,now 0.1.6 aarch64 [installed]
+libopenfec/stable,now 1.4.2.4-10 aarch64 [installed]
+libopenmpt-static/stable,now 0.6.10 aarch64 [installed]
+libopenmpt/stable,now 0.6.10 aarch64 [installed]
+libopus-static/stable,now 1.4 aarch64 [installed]
+libopus/stable,now 1.4 aarch64 [installed]
+libopusenc-static/stable,now 0.2.1-3 aarch64 [installed]
+libopusenc/stable,now 0.2.1-3 aarch64 [installed]
+liborc/stable,now 0.4.34 aarch64 [installed]
+libosl-static/stable,now 0.9.7 aarch64 [installed]
+libosl/stable,now 0.9.7 aarch64 [installed]
+libosmium/stable,now 2.19.0 all [installed]
+libosmpbf-static/stable,now 1.5.0-5 aarch64 [installed]
+libosmpbf/stable,now 1.5.0-5 aarch64 [installed]
+libotr-static/stable,now 4.1.1-2 aarch64 [installed]
+libotr/stable,now 4.1.1-2 aarch64 [installed]
+libowfat/stable,now 0.33-1 aarch64 [installed]
+libp8-platform/stable,now 2.1.0.1-2 aarch64 [installed]
+libpagmo/stable,now 2.19.0-1 aarch64 [installed]
+libpangomm-1.4/stable,now 2.46.3 aarch64 [installed]
+libpangomm-2.48/stable,now 2.50.1 aarch64 [installed]
+libpano13-static/stable,now 2.9.21-2 aarch64 [installed]
+libpano13/stable,now 2.9.21-2 aarch64 [installed]
+libpaper-static/stable,now 2.1.1 aarch64 [installed]
+libpaper/stable,now 2.1.1 aarch64 [installed]
+libpcap-static/stable,now 1.10.4 aarch64 [installed]
+libpcap/stable,now 1.10.4 aarch64 [installed]
+libpcreposix/stable,now 8.45-1 aarch64 [installed]
+libpcsclite-static/root,now 2.0.0 aarch64 [installed]
+libpcsclite/root,now 2.0.0 aarch64 [installed]
+libphysfs/stable,now 3.2.0-1 aarch64 [installed]
+libpipeline-static/stable,now 1.5.7 aarch64 [installed]
+libpipeline/stable,now 1.5.7 aarch64 [installed]
+libpixman-static/stable,now 0.42.2 aarch64 [installed]
+libpixman/stable,now 0.42.2 aarch64 [installed]
+libplist-static/stable,now 2.3.0 aarch64 [installed]
+libplist/stable,now 2.3.0 aarch64 [installed]
+libpng-static/stable,now 1.6.40 aarch64 [installed]
+libpng/stable,now 1.6.40 aarch64 [installed]
+libpngwriter-static/stable,now 0.7.0 aarch64 [installed]
+libpngwriter/stable,now 0.7.0 aarch64 [installed]
+libpoco/stable,now 1.12.4-2 aarch64 [installed]
+libpolly/stable,now 16.0.6-1 aarch64 [installed]
+libpopt-static/stable,now 1.19 aarch64 [installed]
+libpopt/stable,now 1.19 aarch64 [installed]
+libprotobuf-c-static/stable,now 1.4.1-5 aarch64 [installed]
+libprotobuf-c/stable,now 1.4.1-5 aarch64 [installed]
+libprotobuf/stable,now 2:22.4 aarch64 [installed]
+libprotozero/stable,now 1.7.1 aarch64 [installed]
+libpsl-static/stable,now 0.21.2 aarch64 [installed]
+libpsl/stable,now 0.21.2 aarch64 [installed]
+libpugixml/stable,now 1.13 aarch64 [installed]
+libqrencode/stable,now 4.1.1 aarch64 [installed]
+libraptor2-static/stable,now 2.0.16-3 aarch64 [installed]
+libraptor2/stable,now 2.0.16-3 aarch64 [installed]
+libraqm/stable,now 0.10.1 aarch64 [installed]
+librasqal-static/stable,now 0.9.33-1 aarch64 [installed]
+librasqal/stable,now 0.9.33-1 aarch64 [installed]
+librav1e-static/stable,now 0.6.6 aarch64 [installed]
+librav1e/stable,now 0.6.6 aarch64 [installed]
+libraw-static/tur-packages,now 0.21.1 aarch64 [installed]
+libraw/tur-packages,now 0.21.1 aarch64 [installed]
+libre2/stable,now 2023.07.01 aarch64 [installed]
+libregexp-assemble-perl/stable,now 0.38-5 all [installed]
+libresolv-wrapper/stable,now 1.1.7-4 aarch64 [installed]
+libretls-static/stable,now 3.7.0 aarch64 [installed]
+libretls/stable,now 3.7.0 aarch64 [installed]
+librime/stable,now 1.8.5-2 aarch64 [installed]
+librinutils/stable,now 0.10.1 aarch64 [installed]
+librnnoise-static/stable,now 2021.03.12 aarch64 [installed]
+librnnoise/stable,now 2021.03.12 aarch64 [installed]
+librocksdb-static/stable,now 8.3.2 aarch64 [installed]
+librocksdb/stable,now 8.3.2 aarch64 [installed]
+librsvg/stable,now 2.56.2-1 aarch64 [installed]
+librsync/stable,now 2.3.4 aarch64 [installed]
+librtmidi/stable,now 5.0.0-1 aarch64 [installed]
+librttopo-static/stable,now 1.1.0-1 aarch64 [installed]
+librttopo/stable,now 1.1.0-1 aarch64 [installed]
+libsamplerate/stable,now 0.2.2 aarch64 [installed]
+libsasl-static/stable,now 2.1.28-1 aarch64 [installed]
+libsasl/stable,now 2.1.28-1 aarch64 [installed]
+libsass-static/stable,now 3.6.5 aarch64 [installed]
+libsass/stable,now 3.6.5 aarch64 [installed]
+libsearpc-static/stable,now 1:3.2.0-5 aarch64 [installed]
+libsearpc/stable,now 1:3.2.0-5 aarch64 [installed]
+libseccomp-static/stable,now 2.5.4 aarch64 [installed]
+libseccomp/stable,now 2.5.4 aarch64 [installed]
+libsecp256k1-static/stable,now 1:0.3.2 aarch64 [installed]
+libsecp256k1/stable,now 1:0.3.2 aarch64 [installed]
+libsecret/stable,now 0.20.5-1 aarch64 [installed]
+libsigc++-2.0/stable,now 2.12.0 aarch64 [installed]
+libsigc++-3.0/stable,now 3.4.0 aarch64 [installed]
+libsignal-protocol-c/stable,now 2.3.3-2 aarch64 [installed]
+libsigsegv-static/stable,now 2.14 aarch64 [installed]
+libsigsegv/stable,now 2.14 aarch64 [installed]
+libsixel-static/stable,now 1.10.3-2 aarch64 [installed]
+libsixel/stable,now 1.10.3-2 aarch64 [installed]
+libsled/stable,now 0.34.7 aarch64 [installed]
+libslirp/stable,now 4.7.0 aarch64 [installed]
+libsm-static/stable,now 1.2.4-1 aarch64 [installed]
+libsm/stable,now 1.2.4-1 aarch64 [installed]
+libsmartcols/stable,now 2.39.1 aarch64 [installed]
+libsnappy/stable,now 1.1.10 aarch64 [installed]
+libsndfile-static/stable,now 1.2.0 aarch64 [installed]
+libsndfile/stable,now 1.2.0 aarch64 [installed]
+libsodium-static/stable,now 1.0.18-3 aarch64 [installed]
+libsodium/stable,now 1.0.18-3 aarch64 [installed]
+libsoldout-static/stable,now 1.4 aarch64 [installed]
+libsoldout/stable,now 1.4 aarch64 [installed]
+libsophia-static/stable,now 2.2 aarch64 [installed]
+libsophia/stable,now 2.2 aarch64 [installed]
+libsoundtouch-static/stable,now 2.3.2 aarch64 [installed]
+libsoundtouch/stable,now 2.3.2 aarch64 [installed]
+libsoup3/stable,now 3.4.2 aarch64 [installed]
+libsoup/stable,now 2.74.3-2 aarch64 [installed]
+libsoxr/stable,now 0.1.3-4 aarch64 [installed]
+libspatialindex/stable,now 1.9.3 aarch64 [installed]
+libspatialite-static/stable,now 5.0.1-2 aarch64 [installed]
+libspatialite/stable,now 5.0.1-2 aarch64 [installed]
+libspdlog/stable,now 1.11.0 aarch64 [installed]
+libspectre-static/stable 0.2.12 aarch64
+libspectre/stable 0.2.12 aarch64
+libspeex-static/stable 1.2.1 aarch64
+libspeex/stable 1.2.1 aarch64
+libspice-protocol/stable 0.14.4 all
+libspice-server-static/stable 0.15.1-1 aarch64
+libspice-server/stable 0.15.1-1 aarch64
+libspnav-static/tur-packages 1.0 aarch64
+libspnav/tur-packages 1.0 aarch64
+libsqlite-static/stable 3.42.0 aarch64
+libsqlite-tcl/stable 3.42.0 aarch64
+libsqlite/stable,now 3.42.0 aarch64 [installed,automatic]
+libsrt/stable 1.5.2 aarch64
+libssh2-static/stable 1.11.0 aarch64
+libssh2/stable,now 1.11.0 aarch64 [installed]
+libssh/stable 0.10.5 aarch64
+libstemmer-static/stable 2.2.0-1 aarch64
+libstemmer/stable,now 2.2.0-1 aarch64 [installed,automatic]
+libstrophe-static/stable 0.12.2-1 aarch64
+libstrophe/stable 0.12.2-1 aarch64
+libt3config/stable 1.0.0 aarch64
+libt3highlight/stable 0.5.0 aarch64
+libt3key/stable 0.2.10 aarch64
+libt3widget/stable 1.2.2-2 aarch64
+libt3window/stable 0.4.1 aarch64
+libtalloc-static/stable 2.4.0 aarch64
+libtalloc/stable,now 2.4.0 aarch64 [installed,automatic]
+libtasn1-static/stable 4.19.0-1 aarch64
+libtasn1/stable 4.19.0-1 aarch64
+libtbb/stable,now 2021.9.0 aarch64 [installed,automatic]
+libtd-static/stable 1.8.0 aarch64
+libtd/stable 1.8.0 aarch64
+libtdb/stable 1.4.8 aarch64
+libtermkey/stable,now 0.22-3 aarch64 [installed,automatic]
+libtheora-static/stable 1.1.1-1 aarch64
+libtheora/stable 1.1.1-1 aarch64
+libthread-db/stable 22-1 aarch64
+libtiff-static/stable 4.5.1-1 aarch64
+libtiff-utils/stable 4.5.1-1 aarch64
+libtiff/stable 4.5.1-1 aarch64 [upgradable from: 4.5.1]
+libtiledb/stable 2.14.0 aarch64
+libtins/stable 4.4 aarch64
+libtinyxml2/stable,now 9.0.0-1 aarch64 [installed,automatic]
+libtinyxml/stable 2.6.2-1 aarch64
+libtirpc-static/stable 1.3.3 aarch64
+libtirpc/stable,now 1.3.3 aarch64 [installed]
+libtomcrypt-static/stable 1.18.2 aarch64
+libtomcrypt/stable 1.18.2 aarch64
+libtommath-static/stable 1.2.0 aarch64
+libtommath/stable 1.2.0 aarch64
+libtool/stable,now 2.4.7 aarch64 [installed]
+libtorrent-rasterbar/stable 2.0.9 aarch64
+libtorrent-static/stable 0.13.8-3 aarch64
+libtorrent/stable 0.13.8-3 aarch64
+libtpms-static/stable 0.9.6 aarch64
+libtpms/stable 0.9.6 aarch64
+libtranscript/stable 0.3.3-1 aarch64
+libtree-ldd/stable 3.1.1-1 aarch64
+libtreesitter-static/stable 0.20.8 aarch64
+libtreesitter/stable,now 0.20.8 aarch64 [installed,automatic]
+libtsduck-static/stable 3.33.3139 aarch64
+libtsduck/stable 3.33.3139 aarch64
+libtvision/stable 2023.01.29 aarch64
+libtwolame-static/stable 0.4.0 aarch64
+libtwolame/stable 0.4.0 aarch64
+libuber-h3/stable 4.1.0 aarch64
+libuchardet-static/stable 0.0.8 aarch64
+libuchardet/stable 0.0.8 aarch64
+libucontext-static/stable 1.2 aarch64
+libucontext/stable 1.2 aarch64
+libudfread-static/stable 1.1.2 aarch64
+libudfread/stable,now 1.1.2 aarch64 [installed,automatic]
+libunbound-static/stable 1.17.1-2 aarch64
+libunbound/stable 1.17.1-2 aarch64 [upgradable from: 1.17.1-1]
+libunibilium/stable,now 2.1.1 aarch64 [installed,automatic]
+libunistring-static/stable 1.1 aarch64
+libunistring/stable,now 1.1 aarch64 [installed]
+libunqlite/stable 1.1.9 aarch64
+libupscaledb-static/stable 2.2.1p20210820-8 aarch64
+libupscaledb/stable 2.2.1p20210820-8 aarch64
+libusb-static/stable 1.0.26-1 aarch64
+libusb/stable,now 1.0.26-1 aarch64 [installed,automatic]
+libusbmuxd-static/stable 2.0.2-p20230430-0 aarch64
+libusbmuxd/stable,now 2.0.2-p20230430-0 aarch64 [installed,automatic]
+libusbredir-static/stable 0.7.1 aarch64
+libusbredir/stable 0.13.0 aarch64
+libutf8-range/stable 2:22.4 aarch64
+libuuid/stable 2.39.1 aarch64 [upgradable from: 2.39]
+libuv-static/stable 1.46.0 aarch64
+libuv/stable 1.46.0 aarch64 [upgradable from: 1.45.0-1]
+libv4l-static/stable 1.24.1-1 aarch64
+libv4l/stable 1.24.1-1 aarch64
+libvbisam-static/stable 2.0-1 aarch64
+libvbisam/stable 2.0-1 aarch64
+libvidstab/stable 1.1.1 aarch64
+libvigra/stable 1.11.1-6 aarch64
+libvips-static/stable 8.13.3-3 aarch64
+libvips/stable 8.14.2-4 aarch64
+libvmaf-static/stable 2.3.1 aarch64
+libvmaf/stable 2.3.1 aarch64
+libvorbis-static/stable 1.3.7-1 aarch64
+libvorbis/stable,now 1.3.7-1 aarch64 [installed,automatic]
+libvpx-static/stable 1:1.13.0 aarch64
+libvpx/stable 1:1.13.0 aarch64
+libvterm/stable,now 1:0.3.2 aarch64 [installed,automatic]
+libvxl/stable 3.5.0-1 aarch64
+libwavpack-static/stable 5.6.0 aarch64
+libwavpack/stable 5.6.0 aarch64
+libwayland-cross-scanner/stable 1.21.0-2 aarch64
+libwayland-protocols/stable 1.31-1 all
+libwayland/stable,now 1.21.0-2 aarch64 [installed,automatic]
+libwebp-static/stable 1.3.1-2 aarch64
+libwebp/stable 1.3.1-2 aarch64 [upgradable from: 1.3.0]
+libwebrtc-audio-processing-static/stable 0.3.1-2 aarch64
+libwebrtc-audio-processing/stable,now 0.3.1-2 aarch64 [installed,automatic]
+libwebsockets/stable 4.3.2 aarch64
+libwolfssl/stable 5.5.4 aarch64
+libwren/stable 0.4.0-2 aarch64
+libwslay/stable 1.1.1 aarch64
+libwv-static/stable 1.2.9-3 aarch64
+libwv/stable 1.2.9-3 aarch64
+libx11-static/stable 1.8.6 aarch64
+libx11/stable,now 1.8.6 aarch64 [installed,automatic]
+libx264-static/stable 1:0.164.3101 aarch64
+libx264/stable 1:0.164.3101 aarch64
+libx265-static/stable 3.5-p20230222-0 aarch64
+libx265/stable,now 3.5-p20230222-0 aarch64 [installed,automatic]
+libx86emu/root 3.5 aarch64
+libxapian-static/stable 1.4.22 aarch64
+libxapian/stable,now 1.4.22 aarch64 [installed,automatic]
+libxau-static/stable 1.0.11 aarch64
+libxau/stable,now 1.0.11 aarch64 [installed,automatic]
+libxcb-static/stable 1.15 aarch64
+libxcb/stable,now 1.15 aarch64 [installed,automatic]
+libxcfun/stable 2.1.1 aarch64
+libxcursor-static/stable 1.2.1-1 aarch64
+libxcursor/stable 1.2.1-1 aarch64
+libxdg-basedir-static/stable 1.2.3 aarch64
+libxdg-basedir/stable 1.2.3 aarch64
+libxdmcp-static/stable 1.1.4 aarch64
+libxdmcp/stable,now 1.1.4 aarch64 [installed,automatic]
+libxdrfile/stable 1.1.4 aarch64
+libxext-static/stable 1.3.5 aarch64
+libxext/stable,now 1.3.5 aarch64 [installed,automatic]
+libxfixes-static/stable 6.0.1 aarch64
+libxfixes/stable,now 6.0.1 aarch64 [installed,automatic]
+libxft-static/stable 2.3.8 aarch64
+libxft/stable,now 2.3.8 aarch64 [installed,automatic]
+libxi-static/stable 1.8.1 aarch64
+libxi/stable,now 1.8.1 aarch64 [installed,automatic]
+libxls-static/stable 1.6.2 aarch64
+libxls/stable 1.6.2 aarch64
+libxlsxwriter/stable 1.1.5-1 aarch64
+libxml2-python-static/stable 2.11.4-2 aarch64
+libxml2-python/stable 2.11.4-2 aarch64
+libxml2-static/stable 2.11.4-2 aarch64
+libxml2-utils/stable 2.11.4-2 aarch64
+libxml2/stable,now 2.11.4-2 aarch64 [installed,automatic]
+libxrandr-static/stable 1.5.3 aarch64
+libxrandr/stable,now 1.5.3 aarch64 [installed,automatic]
+libxrender-static/stable 0.9.11 aarch64
+libxrender/stable,now 0.9.11 aarch64 [installed,automatic]
+libxshmfence-static/stable 1.3.2-1 aarch64
+libxshmfence/stable,now 1.3.2-1 aarch64 [installed,automatic]
+libxslt-static/stable 1.1.38-1 aarch64
+libxslt/stable 1.1.38-1 aarch64 [upgradable from: 1.1.38]
+libxss-static/stable 1.2.3-13 aarch64
+libxss/stable 1.2.3-13 aarch64
+libxt-static/stable 1.3.0 aarch64
+libxt/stable,now 1.3.0 aarch64 [installed,automatic]
+libxtst-static/stable 1.2.4 aarch64
+libxtst/stable,now 1.2.4 aarch64 [installed,automatic]
+libxv-static/stable 1.0.12 aarch64
+libxv/stable 1.0.12 aarch64
+libxxf86vm-static/stable 1.1.5-1 aarch64
+libxxf86vm/stable,now 1.1.5-1 aarch64 [installed,automatic]
+libyaml-cpp/stable,now 0.7.0-1 aarch64 [installed,automatic]
+libyaml-static/stable 0.2.5-4 aarch64
+libyaml/stable,now 0.2.5-4 aarch64 [installed,automatic]
+libzen-static/stable 0.4.41 aarch64
+libzen/stable,now 0.4.41 aarch64 [installed,automatic]
+libzim/stable,now 8.2.0 aarch64 [installed,automatic]
+libzimg-static/stable 3.0.5 aarch64
+libzimg/stable 3.0.5 aarch64
+libzip/stable,now 1.10.0 aarch64 [installed,automatic]
+libzita-convolver/stable 4.0.3-1 aarch64
+libzmq-static/stable 4.3.4-3 aarch64
+libzmq/stable,now 4.3.4-3 aarch64 [installed,automatic]
+libzopfli/stable 1.0.3-3 aarch64
+libzthread-static/stable 2.3.2-1 aarch64
+libzthread/stable 2.3.2-1 aarch64
+libzxing-cpp/stable 2.1.0 aarch64
+lighttpd-static/stable 1.4.70-2 aarch64
+lighttpd/stable 1.4.71 aarch64
+lilv/stable 0.24.20 aarch64
+lilypond/stable 2.24.1 aarch64
+links/stable 2.29-1 aarch64
+lipl/stable 0.1.3 aarch64
+litespeedtest/stable 0.15.0 aarch64
+littlecms-static/stable 2.15-1 aarch64
+littlecms-utils/stable 2.15-1 aarch64
+littlecms/stable,now 2.15-1 aarch64 [installed,automatic]
+llama/stable 1.4.0-1 aarch64
+llbuild/stable 5.8 aarch64
+lld-16/tur-packages 20230603-16.0-0 all
+lld/stable,now 16.0.6-1 aarch64 [installed,automatic]
+lldb/stable 16.0.6-1 aarch64
+llvm-11/tur-packages 11.1.0-1 aarch64
+llvm-16/tur-packages 20230603-16.0-0 all
+llvm-mingw-w64-libcompiler-rt/stable 20230320 all
+llvm-mingw-w64-tools/stable 10.0.0 aarch64
+llvm-mingw-w64-ucrt/stable 20230320 all
+llvm-mingw-w64/stable 20230320 all
+llvm-tools-16/tur-packages 20230603-16.0-0 all
+llvm-tools/stable 16.0.6-1 aarch64
+llvm/stable,now 16.0.6-1 aarch64 [installed,automatic]
+llvmgold/stable 16.0.6-1 aarch64
+lnav/stable 0.11.2 aarch64
+lnd/stable 0.16.2-beta-0 aarch64
+locustdb/stable 0.3.4-1 aarch64
+logo-ls/stable 1.3.7-2 aarch64
+logrotate/stable 3.21.0 aarch64
+loksh/stable 7.3 aarch64
+lowdown-static/stable 1.0.2 aarch64
+lowdown/stable 1.0.2 aarch64
+lr/stable 1.5.1-6 aarch64
+lrzip/stable 0.651 aarch64
+lrzsz/stable 0.12.21-rc1-0 aarch64
+lsd/stable,now 0.23.1 aarch64 [installed]
+lsix/stable 1.8-1 all
+lsof/stable,now 4.98.0 aarch64 [installed]
+ltrace/stable 1:0.7.3-4 aarch64
+lua-language-server/stable 3.6.23 aarch64
+lua-lgi/stable 0.9.2 aarch64
+lua-lpeg/stable 1.1.0 aarch64
+lua51/stable 5.1.5 aarch64
+lua52/stable 5.2.4-8 aarch64
+lua53/stable 5.3.6 aarch64
+lua54/stable 5.4.6-1 aarch64
+luajit/stable 1:2.1.0-beta3-3 aarch64
+luarocks/stable 3.9.2 all
+luv/stable 1.45.0-0-0 aarch64 [upgradable from: 1.44.2-1-0]
+lux/stable 0.19.0 aarch64
+lv2/stable 1.18.10-1 aarch64
+lvm2/root 2.03.21 aarch64
+lxc-static/root 1:3.1.0-2 aarch64
+lxc/root 1:3.1.0-2 aarch64
+lychee/stable 0.13.0 aarch64
+lynx/stable 2.8.9rel.1-7 aarch64
+lz4/stable 1.9.4 aarch64
+lzip/stable 1.23-1 aarch64
+lzlib-static/stable 1.13 aarch64
+lzlib/stable 1.13 aarch64
+lzop/stable 1.04-1 aarch64
+m4/stable,now 1.4.19-4 aarch64 [installed,automatic]
+macchanger/root,now 1.7.0-1 aarch64 [installed]
+macchina/stable 6.1.8 aarch64
+magic-wormhole-rs/stable 0.6.0 aarch64
+mailsync/stable 5.2.7-1 aarch64
+mailutils-static/stable 3.16 aarch64
+mailutils/stable 3.16 aarch64
+make-guile/stable 4.4.1 aarch64
+make/stable,now 4.4.1 aarch64 [installed]
+man/stable,now 1.14.6-1 aarch64 [installed,automatic]
+mangal/stable 4.0.6-1 aarch64
+manpages/stable 6.04 all
+mapserver/stable 8.0.1-3 aarch64
+mariadb-static/stable 2:10.11.4 aarch64
+mariadb/stable 2:10.11.4 aarch64
+marisa-static/stable 0.2.6-1 aarch64
+marisa/stable,now 0.2.6-1 aarch64 [installed,automatic]
+markdown-flashcards/stable 2.0.0-1 aarch64
+mathomatic/stable 16.0.5-6 aarch64
+matplotlib/stable 3.7.2 aarch64
+matterbridge/stable 1.26.0-1 aarch64
+matterircd/stable 0.27.0-1 aarch64
+mautrix-whatsapp/stable 0.8.6 aarch64
+maven/stable 3.9.3 all
+maxcso/stable 1.13.0 aarch64
+maxima/stable 5.47.0 aarch64
+mazter/stable 2022.08.13 aarch64
+mbedtls/stable 3.4.0 aarch64
+mc/stable 4.8.29-1 aarch64
+mcfly/stable 0.8.1 aarch64
+mdbook-auto-gen-summary/stable 0.1.10 aarch64
+mdbook-cat-prep/stable 1.0.9 aarch64
+mdbook-epub/stable 0.4.14 aarch64
+mdbook-graphviz/stable 0.1.6 aarch64
+mdbook-katex/stable 0.5.4 aarch64
+mdbook-linkcheck/stable 0.7.7 aarch64
+mdbook-mermaid/stable 0.12.6 aarch64
+mdbook-open-on-gh/stable 2.3.3 aarch64
+mdbook-pikchr/stable 0.1.6 aarch64
+mdbook-plantuml/stable 0.8.0 aarch64
+mdbook-presentation-preprocessor/stable 0.2.1 aarch64
+mdbook-svgbob2/stable 0.3.0 aarch64
+mdbook-svgbob/stable 0.2.1 aarch64
+mdbook-tera/stable 0.5.1 aarch64
+mdbook-toc/stable 0.12.0 aarch64
+mdbook/stable 0.4.31 aarch64
+mdbtools-static/stable 1.0.0-2 aarch64
+mdbtools/stable 1.0.0-2 aarch64
+mdns-scan/stable 0.5-2 aarch64
+mdp/stable 1.0.15-2 aarch64
+mediainfo/stable 23.06 aarch64
+megacmd/stable 1.6.3 aarch64
+megatools/stable 1.11.1.20230212 aarch64
+memcached/stable 1.6.21 aarch64
+mercury-static/stable 22.01.6 aarch64
+mercury/stable 22.01.6 aarch64
+mesa-chromium/tur-packages 22.3.0 aarch64
+mesa-dev/stable 23.1.3-2 all
+mesa-vulkan-icd-freedreno/stable 23.1.3-2 aarch64
+mesa-vulkan-icd-swrast/stable 23.1.3-2 aarch64
+mesa-zink-dev/tur-packages 22.0.5-5 all
+mesa-zink-vulkan-icd-freedreno/tur-packages 22.0.5-5 aarch64
+mesa-zink-vulkan-icd-swrast/tur-packages 22.0.5-5 aarch64
+mesa-zink/tur-packages 22.0.5-5 aarch64
+mesa/stable,now 23.1.3-2 aarch64 [installed,automatic]
+mfcuk/stable 2018.07.14 aarch64
+mg/stable 20230406 aarch64
+micro/stable 2.0.11-3 aarch64
+microsocks/stable 1:1.0.3 aarch64
+miller/stable 6.8.0 aarch64
+mime-support/stable 1:2.1.53 all
+mimetic-static/stable 0.9.8 aarch64
+mimetic/stable 0.9.8 aarch64
+minesweeper/stable 0.3.1-2 aarch64
+minicom/stable 2.8 aarch64
+minidlna/stable 1.3.3-1 aarch64
+miniflux/stable 2.0.45 aarch64
+minikube/root 1.30.1 aarch64
+minimodem/stable 0.24-1-0 aarch64
+minio/stable 2023.05.04.21.44.30 aarch64
+miniserve/stable 0.24.0 aarch64
+minisign/stable 0.11 aarch64
+miniupnpc-static/stable 2.2.5 aarch64
+miniupnpc/stable 2.2.5 aarch64
+minizinc-static/stable 2.7.6 aarch64
+minizinc/stable 2.7.6 aarch64
+mkbootimg/stable 2022.11.09 aarch64
+mkp224o/stable 1.6.1 aarch64
+mksh/stable 59c-2 aarch64
+mktorrent/stable 1.1-p20210130-0 aarch64
+mkvtoolnix/stable 53.0.0-10 aarch64
+mlir-16/tur-packages 20230603-16.0-0 all
+mlir/stable 16.0.6-1 aarch64
+mlocate/stable 0.26-5 aarch64
+mold/stable 1.11.0 aarch64
+monero/stable 0.18.2.2-2 aarch64
+monetdb/stable 11.47.3-1 aarch64
+mongodb/tur-packages,now 6.1.0-1 aarch64 [installed]
+mono-libs/stable 6.12.0.182 all
+mono-static/stable 6.12.0.182 aarch64
+mono/stable 6.12.0.182 aarch64
+monolith/stable 2.7.0 aarch64
+moon-buggy/stable 1.0.51-5 aarch64
+moreutils/stable 0.67 aarch64
+moria/stable 5.7.15-4 aarch64
+morse2ascii/stable 0.2-4 aarch64
+mosh-perl/stable 1.4.0-4 aarch64
+mosh/stable 1.4.0-4 aarch64
+mosquitto/stable 2.0.15 aarch64
+most/stable 5.2.0 aarch64
+mount-utils/stable 2.39.1 aarch64
+mp3cat-go/stable 4.2.2-2 aarch64
+mp3cat/stable 0.5 aarch64
+mp3gain/stable 1.6.2 aarch64
+mp3splt/stable 2.6.2-1 aarch64
+mp3wrap/stable 0.5 aarch64
+mpc/stable 0.34-3 aarch64
+mpd/stable 0.23.13-1 aarch64
+mpdscribble/stable 0.24-1 aarch64
+mpg123-static/stable 1.31.3 aarch64
+mpg123/stable,now 1.31.3 aarch64 [installed,automatic]
+mplayer/stable 1.5-4 aarch64
+mpv/stable 0.35.1-1 aarch64
+mruby-static/stable 3.2.0 aarch64
+mruby/stable 3.2.0 aarch64
+msmtp/stable 1.8.24 aarch64
+mtd-utils/stable 2.1.5-1 aarch64
+mtools/stable 4.0.43 aarch64
+mtr/root 0.95 aarch64
+mu/stable 1.10.5 aarch64
+muchsync/stable 7 aarch64
+multitail/stable 7.0.0 aarch64
+mupdf-static/stable 1.22.2-1 aarch64
+mupdf-tools/stable 1.22.2-1 aarch64
+mupdf/stable,now 1.22.2-1 aarch64 [installed,automatic]
+mutt/stable 2.2.10-1 aarch64
+myman/stable 0.7.1-6 aarch64
+mympd/stable 10.3.3 aarch64
+mypaint-brushes/stable 2.0.2 all
+myrepos/stable 1.20180726-4 all
+n2n/stable 3.1.1 aarch64
+nala/stable 0.13.0 all
+nali/stable 0.7.3 aarch64
+nano/stable,now 7.2 aarch64 [installed]
+nasm/stable 2.16.01 aarch64
+natpmpc-static/stable 20230423 aarch64
+natpmpc/stable 20230423 aarch64
+navi/stable 2.22.1 aarch64
+navidrome/stable 0.49.3-1 aarch64
+ncdc/stable 1.23.1 aarch64
+ncdu/stable 1.18 aarch64
+ncftp/stable 3.2.6-1 aarch64
+ncmpcpp/stable 0.9.2-10 aarch64
+ncompress/stable 5.0 aarch64
+ncpamixer/stable 1.3.3.5 aarch64
+ncspot/stable 0.13.3 aarch64
+ncurses-static/stable 6.4.20230527 aarch64
+ncurses-ui-libs-static/stable 6.4.20230527 aarch64
+ncurses-ui-libs/stable 6.4.20230527 aarch64 [upgradable from: 6.4-2]
+ncurses-utils/stable 6.4.20230527 aarch64 [upgradable from: 6.4-2]
+ncurses/stable 6.4.20230527 aarch64 [upgradable from: 6.4-2]
+ndk-multilib-native-static/stable 25c-4 aarch64
+ndk-multilib-native-stubs/stable 25c-4 aarch64
+ndk-multilib/stable 25c-4 all
+ndk-sysroot-gcc-compact/tur-packages 25c aarch64
+ndk-sysroot/stable,now 25c aarch64 [installed,automatic]
+ne/stable 3.3.2 aarch64
+nelua/stable 2022.07.21 aarch64
+neofetch/stable,now 7.1.0-1 all [installed]
+neomutt/stable 20230517 aarch64
+neovim/stable,now 0.9.0-1 aarch64 [installed]
+net-snmp-static/stable 5.9.3 aarch64
+net-snmp/stable 5.9.3 aarch64
+net-tools/stable,now 2.10.0 aarch64 [installed]
+netcat-openbsd/stable 1.219-1-0 aarch64
+netcdf-c-static/stable 4.9.2 aarch64
+netcdf-c/stable 4.9.2 aarch64
+nethack/stable 3.6.7 aarch64
+nethogs/root 0.8.7 aarch64
+netpbm/stable 1:10.73.43-3 aarch64
+netsed/stable 1.3-5 aarch64
+nettle/stable 3.9.1 aarch64
+newsboat/stable 2.32-1 aarch64
+nexttrace-enhanced/root 0.3.2-beta.1-1 aarch64
+nfs-utils-static/root 2.6.3 aarch64
+nfs-utils/root 2.6.3 aarch64
+nginx/stable 1.25.1 aarch64
+ngircd/stable 26.1-2 aarch64
+ngspice/stable 39.3 aarch64
+nim/stable 1.6.14-1 aarch64
+ninja/stable 1.11.1 aarch64
+ninvaders/stable 0.1.2-2 aarch64
+nlohmann-json/stable 3.11.2 aarch64
+nlopt/stable,now 2.7.1-1 aarch64 [installed,automatic]
+nmap-ncat/stable,now 7.94 aarch64 [installed,automatic]
+nmap/stable,now 7.94 aarch64 [installed]
+nmh/stable 1.8 aarch64
+nmon/stable 16n aarch64
+nnn/stable 4.8 aarch64
+no-more-secrets/stable 1.0.1-1 aarch64
+nodejs-12/tur-packages 12.18.3 aarch64
+nodejs-16/tur-packages 16.20.0 aarch64
+nodejs-lts/stable 18.16.1 aarch64
+nodejs/stable,now 20.2.0 aarch64 [installed]
+notcurses-data/stable 3.0.9-1 all
+notcurses-tools/stable 3.0.9-1 aarch64
+notcurses/stable 3.0.9-1 aarch64
+notmuch/stable 0.37 aarch64
+npush/stable 0.7-1 aarch64
+nsis-stubs/stable 3.08-6 all
+nsis/stable 3.08-6 aarch64
+nsnake/stable 3.0.1-6 aarch64
+nss-utils/stable 3.91 aarch64
+ntfs-3g-static/root 2022.10.3 aarch64
+ntfs-3g/root 2022.10.3 aarch64
+nudoku/stable 2.1.0 aarch64
+nushell/stable 0.82.0-1 aarch64
+nwipe/stable 0.34 aarch64
+nyancat/stable 1.5.2 aarch64
+nzbget/stable 21.1-6 aarch64
+o-editor/stable 2.62.6 aarch64
+oathtool-static/stable 2.6.7-2 aarch64
+oathtool/stable 2.6.7-2 aarch64
+obfs4proxy/stable 0.0.14-2 aarch64
+ocl-icd/stable 2.3.1-3 aarch64
+ocrad-static/stable 0.28 aarch64
+ocrad/stable 0.28 aarch64
+octave-static/tur-packages 8.2.0 aarch64
+octave-x-static/tur-packages 8.2.0 aarch64
+octave-x/tur-packages 8.2.0 aarch64
+octave/tur-packages 8.2.0 aarch64
+octomap-static/stable,now 1.9.8-1 aarch64 [installed,automatic]
+octomap/stable,now 1.9.8-1 aarch64 [installed,automatic]
+odt2txt/stable 0.5-4 aarch64
+okc-agents/stable 0.1.2 aarch64
+ol/stable 2.4 aarch64
+oleo/stable 1.99.16-7 aarch64
+onefetch/stable 2.18.1 aarch64
+oniguruma-static/stable 6.9.8 aarch64
+oniguruma/stable,now 6.9.8 aarch64 [installed,automatic]
+oorexx-static/stable 4.2.0-3 aarch64
+oorexx/stable 4.2.0-3 aarch64
+open-adventure/stable 1.16 aarch64
+open-zwave/root 1.6-p20221117-0 aarch64
+openal-soft/stable 1.23.1 aarch64
+openalut-static/tur-packages 1.1.0-1 aarch64
+openalut/tur-packages 1.1.0-1 aarch64
+openbabel/stable 3.1.1-8 aarch64
+openblas/tur-packages 0.3.21-1 aarch64
+opencc-tools/stable 1.1.6 aarch64
+opencl-clhpp/stable 2023.04.17 all
+opencl-headers/stable 2023.04.17 all
+opencl-vendor-driver/stable 0.1 aarch64
+opencolorio-static/stable 2.1.2 aarch64
+opencolorio/stable 2.2.1-1 aarch64
+opencv-python/stable 4.8.0 aarch64
+opencv/stable 4.8.0 aarch64
+openethereum-utils/stable 3.3.5-1 aarch64
+openethereum/stable 3.3.5-1 aarch64
+openexr/stable 3.1.9 aarch64
+openfoam/stable 2212-1 aarch64
+opengl/stable 0.1 all
+openimageio/tur-packages 2.4.10.0 aarch64
+openjdk-17-source/stable 17.0-27 all
+openjdk-17-x/stable 17.0-27 aarch64 [upgradable from: 17.0-26]
+openjdk-17/stable 17.0-27 aarch64 [upgradable from: 17.0-26]
+openjpeg-tools/stable 2.5.0-1 aarch64
+openjpeg/stable,now 2.5.0-1 aarch64 [installed,automatic]
+openldap-static/stable 2.6.4 aarch64
+openldap/stable 2.6.4 aarch64
+openmpi-static/stable 4.1.5 aarch64
+openmpi/stable 4.1.5 aarch64
+openscad/stable 2019.05-13 aarch64
+openssh-sftp-server/stable,now 9.3p1-2 aarch64 [installed,automatic]
+openssh/stable,now 9.3p1-2 aarch64 [installed]
+openssl-1.1-static/stable 1:1.1.1u aarch64
+openssl-1.1/stable 1:1.1.1u aarch64
+openssl-static/stable 1:3.1.1 aarch64
+openssl-tool/stable 1:3.1.1 aarch64
+openssl1.1-tool/stable 1:1.1.1u aarch64
+openssl/stable,now 1:3.1.1 aarch64 [installed]
+openvdb-static/tur-packages 10.0.1-1 aarch64
+openvdb/tur-packages 10.0.1-1 aarch64
+openvpn/root 2.6.5 aarch64
+optipng/stable 0.7.7-2 aarch64
+opus-tools/stable 0.2-3 aarch64
+opusfile-static/stable 0.12-3 aarch64
+opusfile/stable 0.12-3 aarch64
+osm2pgsql/stable 1.8.1-2 aarch64
+osmctools/stable 0.9-2 aarch64
+osmesa-zink/tur-packages 22.0.5-5 aarch64
+osmesa/stable 23.1.3-2 aarch64
+osmium-tool/stable 1.15.0-2 aarch64
+ossp-uuid-static/stable 1.6.2-3 aarch64
+ossp-uuid/stable 1.6.2-3 aarch64
+outfieldr/stable 1.0.3 aarch64
+ovmf/stable 20221117gitfff6d81270b5-14.fc39-0 all
+p11-kit/stable 0.25.0 aarch64
+p7zip/stable 17.05-1 aarch64
+pacman-contrib/tur-packages 1.7.1 aarch64
+pacman4console/stable 1.3-3 aarch64
+pacman/stable 6.0.2-12 aarch64
+pacutils/tur-packages 0.11.1-1 aarch64
+panda3d-samples/stable 1.10.13-1 all
+panda3d-static/stable 1.10.13-1 aarch64
+panda3d/stable 1.10.13-1 aarch64
+pandoc/stable 2.19.2 aarch64
+pango/stable,now 1.50.14 aarch64 [installed,automatic]
+paperkey/stable 1.6 aarch64
+par2/stable 0.8.1-3 aarch64
+parallel/stable 20230622 all
+pari-static/stable 2.15.3 aarch64
+pari/stable 2.15.3 aarch64
+parted-static/stable 3.6 aarch64
+parted/stable 3.6 aarch64
+paruz/stable 1.1.2 all
+pass-otp/stable 1.2.0-3 all
+pass/stable 1.7.4-2 all
+passphrase2pgp/stable 1.3.0-1 aarch64
+pastebinit/stable 1.5.1-1 all
+pastel/stable 0.9.0-1 aarch64
+patch/stable,now 2.7.6-3 aarch64 [installed]
+patchelf/stable 0.18.0 aarch64
+pathpicker/stable 0.9.5-1 all
+pb/stable 2022.11.03 all
+pcal/stable 4.11.0 aarch64
+pcaudiolib-static/stable 1.2-2 aarch64
+pcaudiolib/stable 1.2-2 aarch64
+pciutils/root 3.10.0 aarch64
+pcre-static/stable 8.45-1 aarch64
+pcre2-static/stable 10.42 aarch64
+pcre2/stable,now 10.42 aarch64 [installed]
+pcre2grep/stable 10.42 aarch64
+pcre/stable,now 8.45-1 aarch64 [installed]
+pcregrep/stable 8.45-1 aarch64
+pcscd/root,now 2.0.0 aarch64 [installed,automatic]
+pdf2djvu/stable 0.9.19-3 aarch64
+pdf2svg/stable 0.2.3-9 aarch64
+pdfcpu/stable 0.4.1 aarch64
+pdfgrep/stable 2.1.2-15 aarch64
+pdftk/stable 3.3.3-1 all
+peaclock/stable 0.4.3-3 aarch64
+peco/stable 0.5.11-1 aarch64
+perl-net-ssleay/tur-packages 1.92-2 aarch64
+perl-rename/stable 1.12-1 all
+perl/stable,now 5.38.0 aarch64 [installed]
+pet/stable 0.5.0 aarch64
+pforth/stable 1:2.0.1 aarch64
+photon-rss/stable 2023.02.02-1 aarch64
+php-apache-ldap/stable 8.2.8 aarch64
+php-apache-opcache/stable 8.2.8 aarch64
+php-apache-pgsql/stable 8.2.8 aarch64
+php-apache-sodium/stable 8.2.8 aarch64
+php-apache/stable,now 8.2.8 aarch64 [installed]
+php-apcu/stable 5.1.22-1 aarch64
+php-fpm/stable 8.2.8 aarch64
+php-imagick/stable 3.7.0-2 aarch64
+php-ldap/stable 8.2.8 aarch64
+php-pgsql/stable 8.2.8 aarch64
+php-psr/stable 1.2.0-1 aarch64
+php-redis/stable 5.3.7-1 aarch64
+php-sodium/stable 8.2.8 aarch64
+php-zephir-parser/stable 1.5.3 aarch64
+php7-apache/tur-packages 7.4.33-2 aarch64
+php7-fpm/tur-packages 7.4.33-2 aarch64
+php7-pgsql/tur-packages 7.4.33-2 aarch64
+php7.2/tur-packages 7.2.34-1 aarch64
+php7/tur-packages 7.4.33-2 aarch64
+php/stable,now 8.2.8 aarch64 [installed]
+phpmyadmin/stable 5.2.1 all
+pianobar/stable 2022.04.01-1 aarch64
+pick/stable 4.0.0-2 aarch64
+picocom/stable 2018.04.12 aarch64
+picolisp/stable 23.6 aarch64
+pigz/stable 2.7 aarch64
+pika/stable 3.4.1-4 aarch64
+pinentry/stable,now 1.2.1-1 aarch64 [installed,automatic]
+pingme/stable 0.2.5-2 aarch64
+pipebuffer/stable 0.0.git20211120 aarch64
+pipes.sh/stable 2018.04.22 all
+pipewire/stable 0.3.72 aarch64
+pixiewps/root 1.4.2-1 aarch64
+pixz/tur-packages 1.0.7 aarch64
+pkg-config/stable,now 0.29.2-2 aarch64 [installed,automatic]
+pkgfile/stable 21 aarch64
+pkgtop/stable 2.4.1-2 aarch64
+plantuml/stable 1.2023.7 all
+play-audio/stable 0.6-1 aarch64
+plutolang/stable 0.5.0 aarch64
+plzip/stable 1.10 aarch64
+pngcrush/stable 1.8.13 aarch64
+pngquant/stable 3.0.1 aarch64
+pocketbase/stable 0.16.8 aarch64
+poke-static/stable 3.2 aarch64
+poke/stable 3.2 aarch64
+polipo/stable 1.1.1 aarch64
+polyml-static/stable 5.9-3 aarch64
+polyml/stable 5.9-3 aarch64
+pomodoro-curses/stable 2.5 aarch64
+poppler-data/stable 0.4.12 all
+poppler/stable 23.07.0 aarch64
+portaudio-static/stable 19.07.00-1 aarch64
+portaudio/stable 19.07.00-1 aarch64
+portmidi/stable 2.0.4 aarch64
+posixvala/stable 0.2 all
+postgis/stable 3.3.3-1 aarch64
+postgresql-static/stable 15.3-1 aarch64
+postgresql/stable 15.3-1 aarch64
+potrace-static/stable 1.16-1 aarch64
+potrace/stable 1.16-1 aarch64
+pounce/stable 3.1 aarch64
+povray-data/stable 3.8.0-beta.2-8 all
+povray/stable 3.8.0-beta.2-8 aarch64
+privoxy/stable 3.0.34 aarch64
+procps-static/stable 3.3.17-2 aarch64
+procps/stable,now 3.3.17-2 aarch64 [installed]
+procs/stable 0.14.0 aarch64
+procyon-decompiler/stable 0.6.0 all
+profanity/stable 0.13.1-3 aarch64
+progress/stable 0.16-1 aarch64
+proj/stable,now 9.2.1 aarch64 [installed,automatic]
+proot-distro/stable 3.16.0 all [upgradable from: 3.15.2]
+proot/stable,now 5.1.107-60 aarch64 [installed]
+protobuf-dev/stable 2:22.4 aarch64
+protobuf-static/stable 22.4 aarch64
+protobuf/stable,now 2:22.4 aarch64 [installed,automatic]
+proton-bridge/stable 2.3.0-2 aarch64
+prover9/stable 2009-11A-0 aarch64
+proxmark3-git/stable 2023.06.24-043ff257-0 aarch64
+proxmark3/stable 1:4.16717 aarch64
+proxychains-ng/stable 4.16 aarch64
+psmisc/stable,now 23.6-1 aarch64 [installed]
+psutils/stable 2.10-2 aarch64
+ptex-static/stable 2.4.2 aarch64
+ptex/stable 2.4.2 aarch64
+ptunnel-ng/stable 1.42 aarch64
+pulseaudio-glib-static/stable 14.2-10 aarch64
+pulseaudio-glib/stable 16.1-4 aarch64
+pulseaudio/stable,now 16.1-4 aarch64 [installed,automatic]
+pup/stable 0.4.0-4 aarch64
+pure-ftpd/stable 1.0.51 aarch64
+pv/stable 1.6.20 aarch64
+pwgen/stable 2.08-1 aarch64
+pybind11/tur-packages 2.10.4-1 aarch64
+pycairo/stable 1.24.0 aarch64
+pygobject/stable 3.44.1 aarch64
+pypy-tkinter/stable 7.3.12 aarch64
+pypy3-tkinter/stable 7.3.12 aarch64
+pypy3/stable 7.3.12 aarch64
+pypy/stable 7.3.12 aarch64
+pystring/stable 1.1.4 aarch64
+python-apsw/stable 3.42.0.0 aarch64
+python-apt/stable 2.6.0 aarch64
+python-bcrypt/stable 4.0.1-1 aarch64
+python-cairo/tur-packages 1.24.0 aarch64
+python-cryptography/stable 41.0.2 aarch64
+python-ensurepip-wheels/stable,now 3.11.4-2 all [installed,automatic]
+python-future/tur-packages 0.18.2-1 all
+python-greenlet/stable 2.0.2 aarch64
+python-is-python3.10/tur-packages 3.10.11 aarch64
+python-is-python3.7/tur-packages 3.7.16-1 aarch64
+python-is-python3.8/tur-packages 3.8.16-1 aarch64
+python-is-python3.9/tur-packages 3.9.16-1 aarch64
+python-kivy/tur-packages 2.2.0.dev0 aarch64
+python-lameenc/stable 1.5.1 aarch64
+python-libsass/stable 0.22.0 aarch64
+python-mitmproxy-wireguard/tur-packages 0.1.23 aarch64
+python-numpy-static/stable 1.25.1 aarch64
+python-numpy/stable 1.25.1 aarch64
+python-opengl/tur-packages 3.1.6-1 all
+python-pandas/tur-packages 2.0.3 aarch64
+python-pillow/stable 10.0.0 aarch64
+python-pip/stable,now 23.1.2 all [installed]
+python-pyarrow/stable 12.0.1 aarch64
+python-pygame/tur-packages 2.5.0 aarch64
+python-pywavelets/tur-packages 1.4.1 aarch64
+python-sabyenc3/stable 7.0.2 aarch64
+python-scikit-image/tur-packages 0.21.0-1 aarch64
+python-scipy/tur-packages 1.11.1 aarch64
+python-seledroid/tur-packages 1.1.0-1 aarch64
+python-selenium-is-seledroid/tur-packages 4.10.0 aarch64
+python-static/stable 3.11.4-2 aarch64
+python-tiktoken/tur-packages 0.4.0 aarch64
+python-tkinter/stable 3.11.4-2 aarch64
+python-tldp/stable 0.7.5-4 all
+python-tls-client/tur-packages 0.2.1-1 aarch64
+python-tokenizers/tur-packages 0.13.3 aarch64
+python-torch-static/stable 2.0.1 aarch64
+python-torch/stable 2.0.1 aarch64
+python-torchaudio/stable 2.0.1 aarch64
+python-torchvision/stable 0.15.1-1 aarch64
+python-xcbgen/stable 1.15.2-4 all
+python-xlib/stable 0.33 all
+python2-static/stable 2.7.18-13 aarch64
+python2/stable,now 2.7.18-13 aarch64 [installed]
+python3.10-cross/tur-packages 3.10.11 aarch64
+python3.10-static/tur-packages 3.10.11 aarch64
+python3.10-tkinter/tur-packages 3.10.11 aarch64
+python3.10/tur-packages 3.10.11 aarch64
+python3.7-cross/tur-packages 3.7.16-1 aarch64
+python3.7-static/tur-packages 3.7.16-1 aarch64
+python3.7-tkinter/tur-packages 3.7.16-1 aarch64
+python3.7/tur-packages 3.7.16-1 aarch64
+python3.8-cross/tur-packages 3.8.16-1 aarch64
+python3.8-static/tur-packages 3.8.16-1 aarch64
+python3.8-tkinter/tur-packages 3.8.16-1 aarch64
+python3.8/tur-packages 3.8.16-1 aarch64
+python3.9-cross/tur-packages 3.9.16-1 aarch64
+python3.9-static/tur-packages 3.9.16-1 aarch64
+python3.9-tkinter/tur-packages 3.9.16-1 aarch64
+python3.9/tur-packages 3.9.16-1 aarch64
+python/stable,now 3.11.4-2 aarch64 [installed]
+pyunbound/stable 1.17.1-2 aarch64
+pzstd/stable 1.5.5-1 aarch64
+q-dns-client/stable 0.11.3 aarch64
+qalc-static/stable 4.7.0 aarch64
+qalc/stable 4.7.0 aarch64
+qbe-cross/tur-packages 1.1-1 aarch64
+qbe/tur-packages 1.1-1 aarch64
+qemu-common/stable 1:8.0.2 aarch64
+qemu-system-aarch64-headless/stable 1:8.0.2 aarch64
+qemu-system-arm-headless/stable 1:8.0.2 aarch64
+qemu-system-i386-headless/stable 1:8.0.2 aarch64
+qemu-system-m68k-headless/stable 1:8.0.2 aarch64
+qemu-system-ppc-headless/stable 1:8.0.2 aarch64
+qemu-system-ppc64-headless/stable 1:8.0.2 aarch64
+qemu-system-riscv32-headless/stable 1:8.0.2 aarch64
+qemu-system-riscv64-headless/stable 1:8.0.2 aarch64
+qemu-system-x86-64-headless/stable 1:8.0.2 aarch64
+qemu-user-aarch64/stable 1:8.0.2 aarch64
+qemu-user-arm/stable 1:8.0.2 aarch64
+qemu-user-i386/stable 1:8.0.2 aarch64
+qemu-user-m68k/stable 1:8.0.2 aarch64
+qemu-user-ppc64/stable 1:8.0.2 aarch64
+qemu-user-ppc/stable 1:8.0.2 aarch64
+qemu-user-riscv32/stable 1:8.0.2 aarch64
+qemu-user-riscv64/stable 1:8.0.2 aarch64
+qemu-user-x86-64/stable 1:8.0.2 aarch64
+qemu-utils/stable 1:8.0.2 aarch64
+qhull-static/stable 8.1-alpha3-0 aarch64
+qhull/stable 8.1-alpha3-0 aarch64
+qpdf-static/stable 11.5.0 aarch64
+qpdf/stable 11.5.0 aarch64
+qrsspig/stable 0.8.0-2 aarch64
+qrupdate-ng/tur-packages 1.1.5 aarch64
+quick-lint-js/stable 2.14.0 aarch64
+quickjs/stable 1:20210327-2 aarch64
+quilt/stable 0.67 all
+racket-static/stable 8.9 aarch64
+racket/stable 8.9 aarch64
+radare2-static/stable 5.7.8 aarch64
+radare2/stable 5.8.8 aarch64
+rage/stable 0.9.2 aarch64
+ragel-static/stable 7.0.4 aarch64
+ragel/stable 7.0.4 aarch64
+railway-cli/stable 3.3.1 aarch64
+ramfs/tur-packages 2015.01.12 aarch64
+ranger/stable 1.9.3-6 all
+rapidjson/stable 1.1.0-4 aarch64
+rappel/stable 2022.11.07 aarch64
+ratt/stable 2023.02.02-1 aarch64
+rav1e/stable 0.6.6 aarch64
+ravencoin-static/stable 4.6.1-3 aarch64
+ravencoin/stable 4.6.1-3 aarch64
+rbw/stable 1.7.1-1 aarch64
+rclone/stable 1.63.0 aarch64
+rcm/stable 1.3.6 all
+rcs/stable 5.10.1 aarch64
+rcshell/stable 1.7.4-4 aarch64
+rdfind/stable 1.6.0 aarch64
+rdiff-backup/stable 2.2.5 aarch64
+rdiff/stable 2.3.4 aarch64
+rdircd/stable 2023.02.07 all
+rdrview/stable 1:0.1-1 aarch64
+re2c/stable 3.0-1 aarch64
+readline-static/stable 8.2.1 aarch64
+readline/stable,now 8.2.1 aarch64 [installed]
+rebuild-detector/tur-packages 4.4.1 aarch64
+recode-static/stable 3.7.14 aarch64
+recode/stable 3.7.14 aarch64
+recoll-python/stable 1.34.7-1 aarch64
+recoll-static/stable 1.34.7-1 aarch64
+recoll/stable 1.34.7-1 aarch64
+recutils-static/stable 1.9 aarch64
+recutils/stable 1.9 aarch64
+redir/stable 3.3-1 aarch64
+redis/stable 7.0.11-1 aarch64
+remind/stable 1:04.02.05 aarch64
+renameutils/stable 0.12.0-2 aarch64
+repoctl/tur-packages 0.21 aarch64
+reptyr/stable 0.10.0 aarch64
+resolv-conf/stable,now 1.3 aarch64 [installed,automatic]
+restic-server/stable 0.12.1 aarch64
+restic/stable 0.15.2 aarch64
+restish/stable 0.17.0-1 aarch64
+rgbds/stable 0.6.1 aarch64
+rhash-static/stable 1.4.3 aarch64
+rhash/stable,now 1.4.3 aarch64 [installed,automatic]
+rig/stable 1.11-1 aarch64
+rinetd/stable 1:0.73-1 aarch64
+rip/stable 0.13.1-1 aarch64
+ripgrep-all/stable 1.0.0-alpha.5-0 aarch64
+ripgrep/stable 13.0.0-3 aarch64
+ripsecrets/stable 0.1.5 aarch64
+rirc/stable 0.1.6-1 aarch64
+rlwrap/stable 0.46.1 aarch64
+rnr/stable 0.4.2 aarch64
+robin-map/stable 1.2.1 aarch64
+robotfindskitten/stable 2022.05.21 aarch64
+root-repo/stable,now 2.4-2 all [installed]
+roqet/stable 0.9.33-1 aarch64
+rp-pppoe/stable 4.0 aarch64
+rpm/stable 4.18.1 aarch64
+rq/stable 1.0.4 aarch64
+rsnapshot/stable 1.4.5 all
+rsync/stable 3.2.7 aarch64
+rtmpdump-static/stable 2.4-6 aarch64
+rtmpdump/stable 2.4-6 aarch64
+rtorrent/stable 0.9.8-2 aarch64
+rubberband-ladspa/stable 3.2.1 aarch64
+rubberband-lv2/stable 3.2.1 aarch64
+rubberband-static/stable 3.2.1 aarch64
+rubberband-vamp/stable 3.2.1 aarch64
+rubberband/stable 3.2.1 aarch64
+rubiks-cube/stable 1.2 aarch64
+ruby-2/tur-packages 2.7.6-1 aarch64
+ruby-is-ruby2/tur-packages 2.7.6-1 aarch64
+ruby-ri-2/tur-packages 2.7.6-1 all
+ruby-ri/stable 3.2.2 all
+ruby/stable,now 3.2.2 aarch64 [installed]
+ruff/stable 0.0.277 aarch64
+runc/root 1.1.7 aarch64
+runit-static/stable 2.1.2-3 aarch64
+runit/stable 2.1.2-3 aarch64
+rush/stable 0.5.1 aarch64
+rust-analyzer/stable 20230703 aarch64
+rust-bindgen/stable 0.66.1 aarch64
+rust-docs/stable 1.70.0-1 all
+rust-nightly-wasm32-unknown-unknown/tur-packages 1.67.1-2023.02.27-nightly-0 all
+rust-src-nightly/tur-packages 1.67.1-2023.02.27-nightly-0 all
+rust-std-wasm32/stable 1.70.0-1 all
+rust/stable 1.70.0-1 aarch64 [upgradable from: 1.70.0]
+rustc-dev/stable 1.70.0-1 aarch64
+rustc-nightly/tur-packages 1.67.1-2023.02.27-nightly-0 aarch64
+rustscan/stable 2.1.1 aarch64
+rw/stable 1.0.1 aarch64
+rxfetch/stable 2023.01.07 all
+s-nail/tur-packages 14.9.24 aarch64
+sabnzbd/stable 4.0.2 all
+salty-chat/stable 0.0.22-2 aarch64
+samba/stable 4.16.10-1 aarch64
+samefile/stable 2.15-5 aarch64
+samurai/stable 1.2 aarch64
+sc-im/stable 0.8.3-1 aarch64
+scala/stable 3.3.0 all
+scc/stable 3.1.0-2 aarch64
+sccache/stable 0.5.4 aarch64
+scdaemon/stable 2.4.3 aarch64
+scdoc/stable 1.11.2-2 aarch64
+scheme48/stable 1.9.2 aarch64
+screen/stable 4.9.0 aarch64
+screenfetch/stable 3.9.1-1 all
+scrub/stable 2.6.1-1 aarch64
+scrypt/stable 1.3.1-2 aarch64
+sd/stable 0.7.6 aarch64
+sdcv/stable 0.5.5 aarch64
+seafile-client-static/stable 9.0.3 aarch64
+seafile-client/stable 9.0.3 aarch64
+seccure/stable 0.5-7 aarch64
+secure-delete/stable 3.1-5 aarch64
+sed/stable,now 4.9-1 aarch64 [installed]
+seledroid-app/tur-packages 1.1.1 aarch64
+sendxmpp/stable 1.24 all
+senpai/stable 1:0.2.0 aarch64
+sensible-utils/stable 0.0.21 all
+serd/stable 0.30.16 aarch64
+serf-static/stable 1.3.10 aarch64
+serf/stable 1.3.10 aarch64
+sfeed/stable 1.8 aarch64
+shairport-sync/stable 3.1.2-6 aarch64
+shark/tur-packages 2.5.1.0-beta-0 all
+sharutils/stable 4.15.2-3 aarch64
+shc/stable 4.0.3-3 aarch64
+sheldon/stable 0.7.3 aarch64
+shell2http/stable 1.16.0-1 aarch64
+shellcheck/stable 0.8.0-1 aarch64
+shellharden/stable 4.3.0 aarch64
+shellinabox/stable 2.21 aarch64
+shfmt/stable 3.7.0 aarch64
+shiori/stable 1.5.4-1 aarch64
+shntool/stable 3.0.10 aarch64
+shtool/stable 2.0.8-9 aarch64
+signify/stable 31 aarch64
+silicon/stable 0.5.1-2 aarch64
+silversearcher-ag/stable,now 2.2.0-5 aarch64 [installed]
+simh/stable 1:3.12.4 aarch64
+simulavr/stable 1:1.1.0 aarch64
+simuwaerm/stable 0.02 aarch64
+sing-box/stable 1.3.0 aarch64
+skate/stable 0.2.2 aarch64
+sl/stable 5.02-2 aarch64
+slang/stable,now 2.3.3 aarch64 [installed,automatic]
+slashtime/stable 2023.01.04 all
+sleuthkit-static/stable 4.12.0 aarch64
+sleuthkit/stable 4.12.0 aarch64
+slides/stable 0.9.0-3 aarch64
+slugify/stable 2016.01.23 all
+smalltalk-static/stable 3.2.91-14 aarch64
+smalltalk/stable 3.2.91-14 aarch64
+smartdns/tur-packages 42 aarch64
+snake/stable 2022.11.07 aarch64
+snapcast-client/stable 0.27.0-2 aarch64
+snapcast-server/stable 0.27.0-2 aarch64
+snmptt/stable 1.5 all
+socat/stable 1.7.4.4 aarch64
+softether-vpn/stable 5.02.5180-3 aarch64
+soju/stable 0.6.2 aarch64
+solidity/stable 0.8.20 aarch64
+sops/stable 3.7.3-2 aarch64
+sord/stable 0.16.14 aarch64
+sortix-rw/tur-packages 1.0 aarch64
+sourcekit-lsp/stable 5.8.1-1 aarch64
+sox-static/stable 14.4.2-25 aarch64
+sox/stable 14.4.2-25 aarch64
+spark/stable 1.0.1 all
+spatialite-tools/stable 5.0.1-3 aarch64
+speechd-data/stable 0.11.4-4 all
+speechd/stable 0.11.4-4 aarch64
+speedtest-go/stable 1.6.3 aarch64
+speex-utils/stable 1.2.1 aarch64
+speexdsp-static/stable 1.2.1 aarch64
+speexdsp/stable,now 1.2.1 aarch64 [installed,automatic]
+spglib-static/stable 2.0.2 aarch64
+spglib/stable 2.0.2 aarch64
+spiped/stable 1.6.2-1 aarch64
+sqawk/tur-packages 0.23.1 all
+sqlcipher-static/stable 4.5.4 aarch64
+sqlcipher/stable 4.5.4 aarch64
+sqlite/stable,now 3.42.0 aarch64 [installed,automatic]
+squashfs-tools-ng-static/stable 1.2.0 aarch64
+squashfs-tools-ng/stable 1.2.0 aarch64
+squashfuse-static/root 0.2.0 aarch64
+squashfuse/root 0.2.0 aarch64
+squeezelite/stable 1.9.9.1430 aarch64
+squid/stable 5.9-1 aarch64
+sratom/stable 0.6.14 aarch64
+srelay/stable 0.4.8p3-7 aarch64
+srt-tools/stable 1.5.2 aarch64
+srt2vobsub/stable 1.0-3 all
+ssdb/stable 1.9.9-2 aarch64
+ssdeep-static/stable 2.14.1-1 aarch64
+ssdeep/stable 2.14.1-1 aarch64
+sse2neon/stable 1.6.0 all
+sshfs/root 3.7.3 aarch64
+sshpass/stable 1.10 aarch64
+sshping/stable 0.1.4-2 aarch64
+sslscan/stable 2.0.16 aarch64
+sssnake/stable 0.3.2 aarch64
+ssss/stable 0.5.7 aarch64
+stag/stable 1.0.0 aarch64
+starship/stable 1.15.0 aarch64
+stdman/stable 2022.07.30 all
+stdoutisatty/stable 1.0 aarch64
+steghide/stable 0.5.1-6 aarch64
+stemwords/stable 2.2.0-1 aarch64
+step-cli/stable 0.24.4 aarch64
+stfl-static/stable 0.24-5 aarch64
+stfl/stable 0.24-5 aarch64
+stoken-static/stable 0.92-1 aarch64
+stoken/stable 0.92-1 aarch64
+stone/stable 2.4-2 aarch64
+storj-uplink/stable 1.81.3 aarch64
+stow/stable 2.3.1 all
+strace/stable 6.4 aarch64
+streamripper/stable 1.64.6-2 aarch64
+sttr/tur-packages 0.2.18 aarch64
+stunnel-static/stable 5.69 aarch64
+stunnel/stable 5.69 aarch64
+stuntman/stable 1.2.16-3 aarch64
+stylua/stable 0.18.0 aarch64
+subtitleripper/stable 0.3.4 aarch64
+subversion-perl-static/stable 1.14.2-5 aarch64
+subversion-perl/stable 1.14.2-5 aarch64
+subversion-static/stable 1.14.2-5 aarch64
+subversion/stable 1.14.2-5 aarch64
+suil/stable 0.10.18 aarch64
+suite3270/stable 4.1ga11-1 aarch64
+suitesparse-static/tur-packages 7.0.1 aarch64
+suitesparse/tur-packages 7.0.1 aarch64
+sun/stable 1.0.0-2 aarch64
+sundials-static/tur-packages 6.5.1 aarch64
+sundials/tur-packages 6.5.1 aarch64
+surfraw/stable 2.3.0-10 aarch64
+surreal/tur-packages 1.0.0-beta.9+20230402-0 aarch64
+svgbob/tur-packages 0.5.5 aarch64
+svt-av1/stable 1.6.0 aarch64
+swaks/stable 20201014.0-1 all
+swi-prolog/stable 9.1.11 aarch64
+swift-runtime-aarch64/stable 5.8.1-1 all
+swift-runtime-arm/stable 5.8.1-1 all
+swift-runtime-x86-64/stable 5.8.1-1 all
+swift-sdk-aarch64/stable 5.8.1-1 all
+swift-sdk-arm/stable 5.8.1-1 all
+swift-sdk-x86-64/stable 5.8.1-1 all
+swift/stable 5.8.1-1 aarch64
+swiftshader/stable 110.0.5481.177 aarch64
+swig/stable 4.1.1 aarch64
+swtpm-static/stable 0.8.0 aarch64
+swtpm/stable 0.8.0 aarch64
+syncthing/stable 1.23.6 aarch64
+sysprop/stable 13.0.0.15-3 aarch64
+ta-lib-static/stable 0.4.0-1 aarch64
+ta-lib/stable 0.4.0-1 aarch64
+taglib/stable 1.13.1 aarch64
+tar/stable,now 1.34-2 aarch64 [installed]
+task-spooler/stable 1.0.2 aarch64
+tasksh/stable 1.2.0-8 aarch64
+taskwarrior/stable 2.6.2-3 aarch64
+tcc/stable 1:0.9.27-p20230415-0 aarch64
+tcl/stable 8.6.13 aarch64
+tcllib/stable 1.21 all
+tcpdump/root 4.99.4 aarch64
+tcplay-veracrypt-static/root 3.3 aarch64
+tcplay-veracrypt/root 3.3 aarch64
+tcsh/stable 6.24.10 aarch64
+tdb-tools/stable 1.4.8 aarch64
+tealdeer/stable 1.6.1 aarch64
+teckit-static/stable 2.5.11-2 aarch64
+teckit/stable 2.5.11-2 aarch64
+tectonic/stable 0.14.1 aarch64
+telegram-bot-api/stable 20230421 aarch64
+telegram-cli/stable 1:1.4.1-6 aarch64
+teleport-tsh/stable 11.0.3-2 aarch64
+tenki-php/stable 2022.05.26 all
+tere/stable 1.4.0 aarch64
+tergent/stable 1.0.0-4 aarch64
+termbot/tur-packages 20220902 aarch64
+termimage/stable 1.2.0 aarch64
+termplay/stable 2.0.6 aarch64
+termshark/root 2.4.0-3 aarch64
+termux-am-socket/stable,now 1.5.0 aarch64 [installed]
+termux-am/stable,now 0.4 all [installed]
+termux-api/stable 0.57 aarch64
+termux-apt-repo/stable 0.5 all
+termux-auth/stable,now 1.4-2 aarch64 [installed,automatic]
+termux-create-package/stable 0.12.0-1 all
+termux-elf-cleaner/stable 2.1.1-2 aarch64
+termux-exec/stable,now 1:1.0 aarch64 [installed]
+termux-gui-bash/stable 0.1.2 aarch64
+termux-gui-c/stable 0.1.1 aarch64
+termux-gui-package/stable 0.1.6-1 all
+termux-gui-pm/stable 1.0.0-1 all
+termux-install/tur-packages 1.1.1 all
+termux-keyring/stable,now 3.11 all [installed]
+termux-licenses/stable,now 2.0-3 all [installed]
+termux-services/stable 0.13-1 all
+termux-tools/stable,now 1.38.3 all [installed]
+teseq/stable 1.1.1-1 aarch64
+tesseract/stable,now 5.3.1-1 aarch64 [installed,automatic]
+testdisk/root 7.1-5 aarch64
+testssl.sh/stable 3.0.8 all
+tex-gyre/stable 2.501 all
+texinfo/stable 7.0.3 aarch64
+texlab/stable 5.7.0 aarch64
+texlive-bin-static/stable 20230313 aarch64
+texlive-bin/stable 20230313 aarch64
+texlive-installer/stable 20230313 all
+thc-hydra/tur-packages 9.4-1 aarch64
+tidy-static/stable 5.9.14-next-0 aarch64
+tidy/stable,now 5.9.14-next-0 aarch64 [installed,automatic]
+tig/stable 2.5.8 aarch64
+tilde/stable 1.1.3-1 aarch64
+time/stable 1.9 aarch64
+timewarrior/stable 1.5.0 aarch64
+timg/stable 1.5.0 aarch64
+timidity++/stable 2.15.0-1 aarch64
+tin-summer/stable 1.21.14 aarch64
+tinc/root 1.0.36-5 aarch64
+tintin++/stable 2.02.31 aarch64
+tinyfugue/stable 5.0b8-2 aarch64
+tinygo-common/stable 0.28.1-1 all
+tinygo/stable 0.28.1-1 aarch64
+tinyproxy/stable 1.11.1-1 aarch64
+tinyscheme/stable 1.42-1 aarch64
+tizonia/stable 0.22.0-12 aarch64
+tk/stable 8.6.13 aarch64
+tmate/stable 2.4.0-2 aarch64
+tmux/stable 3.3a-p20230428-0 aarch64
+toilet/stable 0.3-2 aarch64
+tokei/stable 13.0.0-alpha.0-0 aarch64
+tome2/stable 2022.12.27-2 aarch64
+toml11/stable 3.7.1 aarch64
+topgrade/stable 12.0.0 aarch64
+tor/stable,now 0.4.7.13 aarch64 [installed]
+torsocks-static/stable 2.4.0 aarch64
+torsocks/stable 2.4.0 aarch64
+toxic/stable 0.12.0 aarch64
+tracepath/stable 20221126-1 aarch64
+traceroute/stable 2.1.2-1 aarch64
+translate-shell/stable 0.9.7.1 all
+transmission/stable 4.0.3 aarch64
+tree/stable,now 2.1.1 aarch64 [installed]
+trigger-rally/tur-packages 0.6.6.1-10 aarch64
+trojan-go/stable 0.10.6-2 aarch64
+trzsz-go/stable 1.1.3 aarch64
+tsduck-java/stable 3.33.3139 aarch64
+tsduck-plugins/stable 3.33.3139 aarch64
+tsduck-python/stable 3.33.3139 aarch64
+tsduck-tools/stable 3.33.3139 aarch64
+tshark/root 3.4.8-3 aarch64
+tsmuxer/stable 2023.01.30 aarch64
+tsocks/stable 1.8beta5-4 aarch64
+tsu/stable,now 8.6.0 all [installed]
+ttf-dejavu/stable,now 2.37-8 all [installed,automatic]
+tty-clock/stable 2.3-1 aarch64
+tty-solitaire/stable 1.3.1 aarch64
+ttyc/stable 0.4-2 aarch64
+ttyd/stable 1.7.3 aarch64
+ttyper/stable 1.2.2 aarch64
+ttyplot/stable 1.4 aarch64
+ttyrec/stable 1.0.8-7 aarch64
+tur-repo/stable,now 1.0.1 all [installed]
+turbo-text-editor-static/tur-packages 0.0.1-git-3db219eb-0 aarch64
+turbo-text-editor/tur-packages 0.0.1-git-3db219eb-0 aarch64
+tut/stable 2.0.1-1 aarch64
+tvheadend-data/stable 4.2.8-10 all
+tvheadend/stable 4.2.8-10 aarch64
+tweego/stable 2.1.1-3 aarch64
+twolame/stable 0.4.0 aarch64
+txikijs/stable 1:22.11.1 aarch64
+typioca/tur-packages 2.4.2 aarch64
+typst/stable 0.6.0 aarch64
+uchardet/stable 0.0.8 aarch64
+udftools/stable 2.3 aarch64
+uftrace/stable 0.14 aarch64
+ugit/stable 5.6 all
+ugrep/stable 3.12.2 aarch64
+unar/stable 1.10.7-5 aarch64
+unbound-static/stable 1.17.1 aarch64
+unbound/stable 1.17.1-2 aarch64 [upgradable from: 1.17.1-1]
+unicode-data/stable 15.0.0 all
+unicorn-static/stable 2.0.1.post1 aarch64
+unicorn/stable 2.0.1.post1 aarch64
+unifdef/stable 2.12 aarch64
+units-cur/stable 2.22-1 all
+units/stable 2.22-1 aarch64
+unixodbc-static/stable 2.3.11 aarch64
+unixodbc/stable 2.3.11 aarch64
+unpaper/stable 1:7.0.0-1 aarch64
+unrar/stable 6.2.8 aarch64
+unshield/stable 1.5.1 aarch64
+unzip/stable,now 6.0-9 aarch64 [installed]
+up/stable 0.4-2 aarch64
+update-info-dir/stable 6.8-6-0 all
+upscaledb-tools/stable 2.2.1p20210820-8 aarch64
+upx/stable 4.0.2 aarch64
+urdfdom-headers/stable 1.1.0 aarch64
+urdfdom/stable 3.1.0 aarch64
+usbmuxd/stable,now 1.1.1-p20230421-0 aarch64 [installed,automatic]
+utf8cpp/stable 3.2.3 aarch64
+utf8proc-static/stable 2.8.0 aarch64
+utf8proc/stable,now 2.8.0 aarch64 [installed,automatic]
+utfdecode/stable 0.3.4-6 aarch64
+uthash/stable 2.3.0 all
+util-linux-static/stable 2.39.1 aarch64
+util-linux/stable 2.39.1 aarch64 [upgradable from: 2.39]
+uucp/stable 1.07-1 aarch64
+uuid-utils/stable 2.39.1 aarch64
+uwsgi/stable 2.0.21-3 aarch64
+v2ray/stable 5.7.0 aarch64
+v4l-utils/root 1.24.1 aarch64
+valac-static/stable 0.56.9 aarch64
+valac/stable 0.56.9 aarch64
+valadoc-static/stable 0.56.9 aarch64
+valadoc/stable 0.56.9 aarch64
+vale/stable 2.28.0 aarch64
+valgrind-static/stable 3.21.0 aarch64
+valgrind/stable 3.21.0 aarch64
+vamp-plugin-sdk-static/stable 2.10-1 aarch64
+vamp-plugin-sdk/stable 2.10-1 aarch64
+vbindiff/stable 3.0-beta5-0 aarch64
+vcsh/stable 2.0.5 all
+vde2-static/stable 2.3.3 aarch64
+vde2/stable 2.3.3 aarch64
+vegeta/stable 12.8.4-3 aarch64
+vera/stable 1.3.0-4 aarch64
+vgmstream/stable 1800-1 aarch64
+vgmtools/stable 2023.01.27 aarch64
+vhs/tur-packages 0.2.0 aarch64
+viddy/stable 0.3.6-2 aarch64
+vifm/stable 0.13 aarch64
+vile/stable 9.8y aarch64
+vim-python/stable 9.0.1650 aarch64
+vim-runtime/stable,now 9.0.1650 all [installed,automatic]
+vim/stable,now 9.0.1650 aarch64 [installed]
+virglrenderer-mesa-zink/tur-packages 20220627 aarch64
+virustotal-cli/stable 0.13.0-1 aarch64
+vis/stable 0.8 aarch64
+vitetris/stable 0.59.1-2 aarch64
+viu/stable 1.4.0 aarch64
+vivid/stable 0.9.0 aarch64
+vkmark/tur-packages 0.0.1-r139.ab6e6f3-0 aarch64
+vlan/root 2.0.5 all
+vlc-static/stable 3.0.18-7 aarch64
+vlc/stable 3.0.18-7 aarch64
+vobsub2srt/stable 2017.12.18-2 aarch64
+vomit/tur-packages 0.4.0 aarch64
+vorbis-tools/stable 1.4.2-2 aarch64
+vtm/stable 0.9.9r aarch64
+vttest/stable 20230201 aarch64
+vtutils/stable 0.5-4 aarch64
+vulkan-extension-layer/stable 1.3.257-1 aarch64
+vulkan-headers/stable 1.3.257 all
+vulkan-loader-android/stable,now 25c-1 aarch64 [installed,automatic]
+vulkan-loader-generic/stable 1.3.257 aarch64
+vulkan-loader/stable,now 0.0.2 all [installed,automatic]
+vulkan-tools/stable 1.3.257 aarch64
+w3m-img/stable 0.5.3.20230121 aarch64
+w3m/stable 0.5.3.20230121 aarch64
+wakatime-cli/stable 1.73.1 aarch64
+wapm/stable 0.5.9 aarch64
+wasmedge/stable 0.12.1 aarch64
+wasmer/stable 3.2.1 aarch64
+wasmtime/stable 10.0.1 aarch64
+watchexec/stable 1.22.3 aarch64
+wavemon/root 0.9.4 aarch64
+wavpack/stable 5.6.0 aarch64
+waypipe/stable 0.8.6 aarch64
+wcalc/stable,now 2.5-5 aarch64 [installed]
+wdiff/stable 1.2.2-1 aarch64
+websocat/stable 1.11.0 aarch64
+websocketd/stable 0.4.1-2 aarch64
+weechat-lua-plugin/stable 4.0.1 aarch64
+weechat-matrix-rs/stable 2022.10.04 aarch64
+weechat-perl-plugin/stable 4.0.1 aarch64
+weechat-python-plugin/stable 4.0.1 aarch64
+weechat-ruby-plugin/stable 4.0.1 aarch64
+weechat/stable 4.0.1 aarch64
+weggli/stable 0.2.4 aarch64
+wego/stable 2.2 aarch64
+wget2-static/stable 2.0.1-3 aarch64
+wget2/stable 2.0.1-3 aarch64
+wget/stable,now 1.21.4-1 aarch64 [installed]
+wgetpaste/stable 2.33 all
+which/stable 2.21 aarch64
+whiptail/stable 0.52.23 aarch64
+whitebox-tools/stable 2.3.0 aarch64
+whois/stable 5.5.17 aarch64
+wireguard-tools/stable 1.0.20210914 aarch64
+wireless-tools-static/root 30pre9-2 aarch64
+wireless-tools/root 30pre9-3 aarch64
+wiz/stable 2022.06.02 aarch64
+woff2/stable 1.0.2-2 aarch64
+wol/stable 0.7.1-3 aarch64
+wordgrinder/stable 0.8 aarch64
+wpa-supplicant/root 2.10-1 aarch64
+wren/stable 0.4.0-1 aarch64
+wrk/stable 4.2.0 aarch64
+wtfutil/stable 0.43.0-1 aarch64
+wuzz/stable 0.5.0-3 aarch64
+wv-tools/stable 1.2.9-3 aarch64
+x11-repo/stable 8.4-1 all
+x264/stable 1:0.164.3101 aarch64
+x265/stable 3.5-p20230222-0 aarch64
+xapian-tools/stable 1.4.22 aarch64
+xcb-proto/stable 1.15.2-4 all
+xdelta3/stable 3.1.0-1 aarch64
+xh/stable 0.18.0 aarch64
+xls2csv/stable 1.6.2 aarch64
+xmake/stable 2.8.1 aarch64
+xmlsec-static/stable 1.3.1-1 aarch64
+xmlsec/stable 1.3.1-1 aarch64
+xmlstarlet/stable 1.6.1-5 aarch64
+xmlto/stable 0.0.28-1 aarch64
+xmppc/stable 0.1.2-2 aarch64
+xorg-util-macros/stable 1.20.0 all
+xorgproto/stable 2023.2 all
+xorriso/stable 1:1.5.6.pl02 aarch64
+xpenguins/tur-packages 3.2.1 aarch64
+xpup/stable 2021.12.26-2 aarch64
+xsltproc/stable 1.1.38-1 aarch64
+xsv-rs/tur-packages 0.13.0 aarch64
+xsv-ucw/tur-packages 1.0.1+2 aarch64
+xtrans/stable 1.5.0 all
+xvidcore-static/stable 1.3.7 aarch64
+xvidcore/stable 1.3.7 aarch64
+xxhash-static/stable 0.8.1 aarch64
+xxhash/stable,now 0.8.1 aarch64 [installed]
+xz-utils/stable,now 5.4.3 aarch64 [installed]
+yadm/stable 3.2.2 aarch64
+yajl-static/stable 2.1.0-7 aarch64
+yajl/stable,now 2.1.0-7 aarch64 [installed,automatic]
+yara-static/stable 4.3.2 aarch64
+yara/stable 4.3.2 aarch64
+yarn/stable,now 1.22.19-1 all [installed]
+yasm-static/stable 1.3.0-6 aarch64
+yasm/stable 1.3.0-6 aarch64
+yosys/stable 0.30 aarch64
+youtubedr/stable,now 2.8.1 aarch64 [installed]
+yq/stable 4.34.2 aarch64
+ytfzf/stable 2.6.0 all
+ytui-music/stable 2.0.0-beta-0 aarch64
+yuma123-static/stable 2.13-1 aarch64
+yuma123/stable 2.13-1 aarch64
+z-push/stable 2.6.4 all
+z3/stable 4.12.2 aarch64
+zbar-static/stable 0.23.92-1 aarch64
+zbar/stable 0.23.92-1 aarch64
+zellij/stable 0.37.2 aarch64
+zeronet/stable 0.7.1-8 all
+zig/stable 0.9.1 aarch64
+zile/stable 2.6.2 aarch64
+zip/stable,now 3.0-5 aarch64 [installed]
+zipios/stable 2.2.6-1 aarch64
+zlib-static/stable 1.2.13 aarch64
+zlib/stable,now 1.2.13 aarch64 [installed]
+zmap/root 1:3.0.0 aarch64
+znc/stable 1.8.2-5 aarch64
+zopfli/stable 1.0.3-3 aarch64
+zoxide/stable 0.9.1 aarch64
+zpaq/stable 7.15 aarch64
+zphisher/tur-packages 2.3.2 all
+zsh-completions/stable 0.34.0 all
+zsh/stable 5.9-2 aarch64
+zssh/stable 1.5c-1 aarch64
+zstd-static/stable 1.5.5-1 aarch64
+zstd/stable 1.5.5-1 aarch64 [upgradable from: 1.5.5]
+zsync/stable 0.6.2-5 aarch64
+zziplib/stable 0.13.72-1 aarch64
+zzuf-static/stable 2022.05.29 aarch64
+zzuf/stable 2022.05.29 aarch64
